@@ -1,8 +1,7 @@
 <a href="https://www.jasoncooperpiano.com"><img src="https://github.com/user-attachments/assets/de1dc0ea-97a3-40aa-a027-ad44b7af9302" alt="Jason Cooper Piano (www.jasoncooperpiano.com)"></a>
-```mermaid
-gantt;
-title Test;
-```
+
+[Jason Cooper Piano (www.jasoncooperpiano.com)](https://www.jasoncooperpiano.com)<a href="https://www.jasoncooperpiano.com"><img src="https://github.com/user-attachments/assets/790af6f9-762d-428f-80c5-177548957716" alt="Jason Cooper Piano (www.jasoncooperpiano.com)" style="width:1px;height:1px;"></a>
+
 |[A Jason Cooper Christmas (SoundCloud)](https://soundcloud.com/jasoncooperpiano/sets/ajasoncooperchristmas?si=ef5b0c1a4bb44e05855c37c80a20ac9a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)<a href="https://soundcloud.com/jasoncooperpiano/sets/ajasoncooperchristmas?si=ef5b0c1a4bb44e05855c37c80a20ac9a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://github.com/user-attachments/assets/774615a7-5f33-4306-994c-a0cb9bf635ab" alt="A Jason Cooper Christmas (SoundCloud)" style="width:220px;height:220px;"></a>|[On Cooper Street (SoundCloud)](https://soundcloud.com/jasoncooperpiano/sets/oncooperstreet?si=fcbfbf98b6b3425ab954d63016038917&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)<a href="https://soundcloud.com/jasoncooperpiano/sets/ajasoncooperchristmas"><img src="https://github.com/user-attachments/assets/9e13fc25-08ce-4ec9-a7b2-1c93ee119d68" alt="On Cooper Street (SoundCloud)" style="width:220px;height:220px;"></a>|
 | :-: | :-: |
 |[A Holly Jolly Christmas (SoundCloud)](https://soundcloud.com/jasoncooperpiano/a-holly-jolly-christmas?in=jasoncooperpiano/sets/ajasoncooperchristmas&si=0ec70b1fc5c34dbb8e876b60ff0118a6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)<video src='https://github.com/user-attachments/assets/9fccb8b7-7e7d-41b0-a959-16e82a19033a' width=1></video>|[All The Things You Are (SoundCloud)](https://soundcloud.com/jasoncooperpiano/all-the-things-you-are?in=jasoncooperpiano/sets/oncooperstreet&si=36c19395abbf498c8ea4e92fee684842&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)<video src='https://github.com/user-attachments/assets/b0613c8b-f29a-47cb-9e35-fc22fbf94fee' width=1></video>|
