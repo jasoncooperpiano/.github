@@ -1,5 +1,5 @@
 <a href="https://www.jasoncooperpiano.com"><img src="https://github.com/user-attachments/assets/de1dc0ea-97a3-40aa-a027-ad44b7af9302" alt="Jason Cooper Piano Cover (www.jasoncooperpiano.com)"></a>
-# <a href="https://www.jasoncooperpiano.com"><img src="https://github.com/user-attachments/assets/f9091d2a-90fd-4638-8c72-085b2259f2be" alt="Jason Cooper Piano Logo (www.jasoncooperpiano.com)" style="width:44px;height:44px;"></a> Jason Cooper Piano
+# <a href="https://www.jasoncooperpiano.com"><img src="https://github.com/user-attachments/assets/f9091d2a-90fd-4638-8c72-085b2259f2be" alt="Jason Cooper Piano Logo (www.jasoncooperpiano.com)" style="width:33px;height:33px;"></a> Jason Cooper Piano
 ## Albums
 > [!WARNING]
 > If video files are broken/missing, refreshing the page should fix the GitHub player. Images and videos do not display/render properly in the GitHub mobile app.
