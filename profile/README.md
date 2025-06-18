@@ -1,6 +1,5 @@
 <a href="https://www.jasoncooperpiano.com"><img src="https://github.com/user-attachments/assets/de1dc0ea-97a3-40aa-a027-ad44b7af9302" alt="Jason Cooper Piano (www.jasoncooperpiano.com)"></a>
-```
-mermaid
+```mermaid
 graph TD;
 A[TEST];
 ```
