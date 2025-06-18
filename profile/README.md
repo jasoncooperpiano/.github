@@ -1,5 +1,5 @@
 <a href="https://www.jasoncooperpiano.com"><img src="https://github.com/user-attachments/assets/de1dc0ea-97a3-40aa-a027-ad44b7af9302" alt="Jason Cooper Piano Cover (www.jasoncooperpiano.com)"></a>
-# <a href="https://www.jasoncooperpiano.com"><img src="https://github.com/user-attachments/assets/f9091d2a-90fd-4638-8c72-085b2259f2be" alt="Jason Cooper Piano Logo (www.jasoncooperpiano.com)" style="width:33px;height:33px;"></a> Jason Cooper Piano
+# Jason Cooper Piano
 ## Albums
 
 > [!WARNING]
