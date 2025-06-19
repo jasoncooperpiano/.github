@@ -1,7 +1,6 @@
 <a href="https://www.jasoncooperpiano.com"><img src="https://github.com/user-attachments/assets/de1dc0ea-97a3-40aa-a027-ad44b7af9302" alt="Jason Cooper Piano Cover (www.jasoncooperpiano.com)"></a>
 # Jason Cooper Piano
 ## Albums
-
 > [!WARNING]
 > If videos are broken, refreshing the page should fix the GitHub player. Images/videos do not currently display properly in the GitHub iOS app.
 
@@ -17,3 +16,7 @@
 |[Rockin' Around The Christmas Tree (SoundCloud)](https://soundcloud.com/jasoncooperpiano/rockin-around-the-christmas?in=jasoncooperpiano/sets/ajasoncooperchristmas&si=04aaadf2be52422383653dd65c5ff6f0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)<video src='https://github.com/user-attachments/assets/49c6be36-5e44-4c9a-918a-f7c7312f038f'></video>|[Moondance / Bumble Boogie (SoundCloud)](https://soundcloud.com/jasoncooperpiano/moondance-bumble-boogie?in=jasoncooperpiano/sets/oncooperstreet&si=829b2671e853455fa75ca88037be9464&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)<video src='https://github.com/user-attachments/assets/8bc967b5-4c36-481d-97cd-107aac24e49e'></video>|
 |[Rudolph The Red Nosed Reindeer (SoundCloud)](https://soundcloud.com/jasoncooperpiano/rudolph-the-red-nosed-reindeer?in=jasoncooperpiano/sets/ajasoncooperchristmas&si=0d8d93f53fb8491591636b50e1b30274&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)<video src='https://github.com/user-attachments/assets/00c768c0-a915-4f01-831b-e3a4b1219d6a'></video>|[When I Was Your Man (SoundCloud)](https://soundcloud.com/jasoncooperpiano/when-i-was-your-man?in=jasoncooperpiano/sets/oncooperstreet&si=b7639b53d1c6496a98e417a9f9e6c84c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)<video src='https://github.com/user-attachments/assets/98d5c049-8298-42bb-8c8e-7563d83f5dc6'></video>|
 |[The Christmas Song (SoundCloud)](https://soundcloud.com/jasoncooperpiano/the-christmas-song?in=jasoncooperpiano/sets/ajasoncooperchristmas&si=fada607297284968a22df33eb6ba098c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)<video src='https://github.com/user-attachments/assets/f71d4435-e56b-44e0-a704-2bfdb3f5fdc3'></video>|
+
+![Screenshot 2025-06-18 215053](https://github.com/user-attachments/assets/87ace6a2-4fdc-4aa0-a2fd-956894a4d73d)
+
+<video src='https://www.youtube.com/embed/RA-6Uu009TE?si=lWyvQNFci_O-NZr7'></video>
