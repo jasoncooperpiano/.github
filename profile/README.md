@@ -1,5 +1,5 @@
 <a href="https://www.jasoncooperpiano.com"><img src="https://github.com/user-attachments/assets/de1dc0ea-97a3-40aa-a027-ad44b7af9302" alt="Jason Cooper Piano Cover (www.jasoncooperpiano.com)"></a>
-# <a href='https://www.jasoncooperpiano.com'><img src='https://github.com/user-attachments/assets/031590f8-e85a-4e16-ab45-ee3b29f03b91' style='width:47px;height:47px;'></a><sup> Jason Cooper Piano</sup>
+# <a href='https://www.jasoncooperpiano.com'><img src='https://github.com/user-attachments/assets/031590f8-e85a-4e16-ab45-ee3b29f03b91' style='width:47px;height:47px;'></a><sup>Jason Cooper Piano</sup>
 ### :minidisc: Albums
 > [!NOTE]
 > Images/videos do not currently display properly in the GitHub iOS app. If videos are broken on desktop, refreshing the page should fix the GitHub player.
