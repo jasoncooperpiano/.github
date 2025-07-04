@@ -4,11 +4,9 @@
 > [!NOTE]
 > Images/videos do not currently display properly in the GitHub iOS app. If videos are broken on desktop, refreshing the page should fix the GitHub player.
 
-<audio id="audio" preload="auto" volume="0.5" data-loop-track="false" data-change-page-title="false"> 
-  
+<audio> 
      <source src="https://archive.org/download/samples2003-11-21.flac16/samples2003-11-21d2t04.mp3" 
          data-track-title="Feel Us Shaking" /> 
-  
      Your browser does not support HTML5 audio. :( 
  </audio> 
 
