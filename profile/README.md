@@ -1,5 +1,5 @@
 <a href="https://www.jasoncooperpiano.com"><img src="https://github.com/user-attachments/assets/de1dc0ea-97a3-40aa-a027-ad44b7af9302" alt="Jason Cooper Piano Cover (www.jasoncooperpiano.com)"></a>
-# <a href='https://www.jasoncooperpiano.com'><img src='https://github.com/user-attachments/assets/031590f8-e85a-4e16-ab45-ee3b29f03b91' style='width:47px;height:47px;'></a><sup>Jason Cooper Piano</sup>
+# <a href='https://www.jasoncooperpiano.com'><img src='https://github.com/user-attachments/assets/031590f8-e85a-4e16-ab45-ee3b29f03b91' style='width:47px;height:47px;'></a><sup> Jason Cooper Piano</sup>
 ### :minidisc: Albums
 > [!NOTE]
 > This README music player is intended/built for desktop and requires side-scrolling in mobile browsers (landscape mode recommended). Embedded audio is still only supported in GitHub Organization/Profile READMEs as .mp4 video files (up to 10MB per file), but original .wav recordings are available by request (some of this music is copyrighted- if you own the rights, please email me; if you do not, use at your own risk).<br/>:computer: Desktop/Mobile Browsers: If videos appear broken, refreshing the page once should fix the GitHub player.<br/>:iphone: GitHub iOS App: Currently, images are scaled incorrectly and videos do not display at all (GitHub pls fix).
