@@ -7,9 +7,9 @@
 > [!NOTE]
 > This README music player is intended/built for desktop (full-screen recommended) and requires side-scrolling in mobile browsers (landscape mode recommended), but supports both light and dark modes similarly to .MUSIC sites. Audio playback is still only supported in GitHub Organization/Profile READMEs through video files (up to 10MB per file), but original .wav recordings are available by request (some of this music is copyrighted- if you own the rights, please email me; if you do not, use at your own risk).<br/>:computer: Desktop/Mobile Browsers: If videos appear broken, refreshing the page once should fix the GitHub player.<br/>:iphone: GitHub iOS App: Currently, images are scaled incorrectly and videos do not display at all (GitHub pls fix).
 
-A Jason Cooper Christmas<br>/[:rewind: Previous Song](#minidisc-albums) [Back to Albums](#minidisc-albums) [Next Song :fast_forward:](#minidisc-albums)
+A Jason Cooper Christmas
 |:-:|
-|[A Holly Jolly Christmas (SoundCloud)](https://soundcloud.com/jasoncooperpiano/a-holly-jolly-christmas?in=jasoncooperpiano/sets/ajasoncooperchristmas&si=0ec70b1fc5c34dbb8e876b60ff0118a6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)<br/><a name="a-holly-jolly-christmas"></a><video src='https://github.com/user-attachments/assets/af61ad27-07b4-4f62-a391-6803960f6cb9'></video>|
+|[A Holly Jolly Christmas (SoundCloud)](https://soundcloud.com/jasoncooperpiano/a-holly-jolly-christmas?in=jasoncooperpiano/sets/ajasoncooperchristmas&si=0ec70b1fc5c34dbb8e876b60ff0118a6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)<br/><sup>[:rewind: Previous Song](#minidisc-albums) [Back to Albums](#minidisc-albums) [Next Song :fast_forward:](#minidisc-albums)</sup><br/><a name="a-holly-jolly-christmas"></a><video src='https://github.com/user-attachments/assets/af61ad27-07b4-4f62-a391-6803960f6cb9'></video>|
 <sub>***A Holly Jolly Christmas*** \| [All I Want For Christmas Is You](#0) \| [Christmas Time Is Here](#0) \| [I'll Be Home For Christmas](#0) \| [I've Got My Love To Keep Me Warm](#0) \| [Jingle Bells](#0) \| [O Christmas Tree](#0) \| [Rockin' Around The Christmas Tree](#0) \| [Rudolph The Red Nosed Reindeer](#0) \| [The Christmas Song](#0)</sub>
 
 
