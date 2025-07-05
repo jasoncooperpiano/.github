@@ -8,9 +8,9 @@
 
 
 
-|<video src='https://github.com/user-attachments/assets/43ca56a3-8298-4876-8d51-cd9979addad8'></video>|_______________________|
-|:-:|---|
-|text|?|
+|<video src='https://github.com/user-attachments/assets/43ca56a3-8298-4876-8d51-cd9979addad8'></video>|
+|:-:|
+|text|
 
 
 
