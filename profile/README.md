@@ -5,9 +5,9 @@
 > This README music player is intended/built for desktop (full-screen recommended) and requires side-scrolling in mobile browsers (landscape mode recommended), but supports both light and dark modes similarly to .MUSIC sites. Audio playback is still only supported in GitHub Organization/Profile READMEs through video files (up to 10MB per file), but original .wav recordings are available by request (some of this music is copyrighted- if you own the rights, please email me; if you do not, use at your own risk).<br/>:computer: Desktop/Mobile Browsers: If videos appear broken, refreshing the page once should fix the GitHub player.<br/>:iphone: GitHub iOS App: Currently, images are scaled incorrectly and videos do not display at all (GitHub pls fix).
 
 
-|<video src='https://github.com/user-attachments/assets/9198500f-20de-4cf0-959c-11029fc76bd7'></video>|
-|:-:|
-|text|
+|<video src='https://github.com/user-attachments/assets/9198500f-20de-4cf0-959c-11029fc76bd7'></video>|anchor column|
+|:-:|--:|
+|text|test|
 
 
 
