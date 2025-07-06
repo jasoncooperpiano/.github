@@ -147,17 +147,45 @@
 
 
 
-|<a name="isnt-she-lovely-piano-man"></a>[Isn't She Lovely / Piano Man (SoundCloud)](https://soundcloud.com/jasoncooperpiano/isnt-she-lovely-piano-man?in=jasoncooperpiano/sets/oncooperstreet&si=7d3783dc13ab4a6b9133c20c2dc3583b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)<br/><video src='https://github.com/user-attachments/assets/da95b0f0-9ae5-4037-bf61-5f716a93094f'></video><br/>[:rewind:](#minidisc-albums)<ins>________________________________________&nbsp;&nbsp;</ins>[:fast_forward:](#minidisc-albums)<br/><sub>[All The Things You Are](#all-the-things-you-are) \| [Autumn Leaves](#autumn-leaves) \| [Bushel and a Peck / Chattanooga Choo Choo](#bushel-and-a-peck-chattanooga-choo-choo) \| [Close To You](#close-to-you) \| [Don't Get Around Much Anymore](#dont-get-around-much-anymore) \| ***Isn't She Lovely / Piano Man*** \| [Just The Two Of Us](#just-the-two-of-us) \| [Moondance / Bumble Boogie](#moondance-bumble-boogie) \| [When I Was Your Man](#when-i-was-your-man) \| [Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff](#prelude-in-g-minor)</sub>|
-|:-:|
+<a name="isnt-she-lovely-piano-man"></a><sub>[All The Things You Are](#all-the-things-you-are) \| [Autumn Leaves](#autumn-leaves) \| [Bushel and a Peck / Chattanooga Choo Choo](#bushel-and-a-peck-chattanooga-choo-choo) \| [Close To You](#close-to-you) \| [Don't Get Around Much Anymore](#dont-get-around-much-anymore) \| ***Isn't She Lovely / Piano Man*** \| [Just The Two Of Us](#just-the-two-of-us) \| [Moondance / Bumble Boogie](#moondance-bumble-boogie) \| [When I Was Your Man](#when-i-was-your-man) \| [Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff](#prelude-in-g-minor)</sub>
+:-:
+<video src='https://github.com/user-attachments/assets/b99567d5-997c-43cf-a695-819e03ce9d7b'></video>
+<sup>[:rewind: Previous Song](#dont-get-around-much-anymore) [Back to Albums](#minidisc-albums) [Next Song :fast_forward:](#just-the-two-of-us)</sup><br/>[Isn't She Lovely / Piano Man (SoundCloud)](https://soundcloud.com/jasoncooperpiano/isnt-she-lovely-piano-man?in=jasoncooperpiano/sets/oncooperstreet&si=7d3783dc13ab4a6b9133c20c2dc3583b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
-|<a name="just-the-two-of-us"></a>[Just The Two Of Us (SoundCloud)](https://soundcloud.com/jasoncooperpiano/just-the-two-of-us?in=jasoncooperpiano/sets/oncooperstreet&si=e951becde20445eb948ebe9611df0d89&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)<br/><video src='https://github.com/user-attachments/assets/9c31d06e-03d7-44c4-a867-03ae12035ad2'></video><br/>[:rewind:](#minidisc-albums)<ins>________________________________________&nbsp;&nbsp;</ins>[:fast_forward:](#minidisc-albums)<br/><sub>[All The Things You Are](#all-the-things-you-are) \| [Autumn Leaves](#autumn-leaves) \| [Bushel and a Peck / Chattanooga Choo Choo](#bushel-and-a-peck-chattanooga-choo-choo) \| [Close To You](#close-to-you) \| [Don't Get Around Much Anymore](#dont-get-around-much-anymore) \| [Isn't She Lovely / Piano Man](#isnt-she-lovely-piano-man) \| ***Just The Two Of Us*** \| [Moondance / Bumble Boogie](#moondance-bumble-boogie) \| [When I Was Your Man](#when-i-was-your-man) \| [Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff](#prelude-in-g-minor)</sub>|
-|:-:|
+<br/><br/><br/><br/><br/>
 
-|<a name="moondance-bumble-boogie"></a>[Moondance / Bumble Boogie (SoundCloud)](https://soundcloud.com/jasoncooperpiano/moondance-bumble-boogie?in=jasoncooperpiano/sets/oncooperstreet&si=829b2671e853455fa75ca88037be9464&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)<br/><video src='https://github.com/user-attachments/assets/cb1a9660-60c3-4ce0-b21b-8674ebe0a1e5'></video><br/>[:rewind:](#minidisc-albums)<ins>________________________________________&nbsp;&nbsp;</ins>[:fast_forward:](#minidisc-albums)<br/><sub>[All The Things You Are](#all-the-things-you-are) \| [Autumn Leaves](#autumn-leaves) \| [Bushel and a Peck / Chattanooga Choo Choo](#bushel-and-a-peck-chattanooga-choo-choo) \| [Close To You](#close-to-you) \| [Don't Get Around Much Anymore](#dont-get-around-much-anymore) \| [Isn't She Lovely / Piano Man](#isnt-she-lovely-piano-man) \| [Just The Two Of Us](#just-the-two-of-us) \| ***Moondance / Bumble Boogie*** \| [When I Was Your Man](#when-i-was-your-man) \| [Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff](#prelude-in-g-minor)</sub>|
-|:-:|
 
-|<a name="when-i-was-your-man"></a>[When I Was Your Man (SoundCloud)](https://soundcloud.com/jasoncooperpiano/when-i-was-your-man?in=jasoncooperpiano/sets/oncooperstreet&si=b7639b53d1c6496a98e417a9f9e6c84c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)<br/><video src='https://github.com/user-attachments/assets/19090eea-f9d8-4a0b-b3a9-05a43ef75885'></video><br/>[:rewind:](#minidisc-albums)<ins>________________________________________&nbsp;&nbsp;</ins>[:fast_forward:](#minidisc-albums)<br/><sub>[All The Things You Are](#all-the-things-you-are) \| [Autumn Leaves](#autumn-leaves) \| [Bushel and a Peck / Chattanooga Choo Choo](#bushel-and-a-peck-chattanooga-choo-choo) \| [Close To You](#close-to-you) \| [Don't Get Around Much Anymore](#dont-get-around-much-anymore) \| [Isn't She Lovely / Piano Man](#isnt-she-lovely-piano-man) \| [Just The Two Of Us](#just-the-two-of-us) \| [Moondance / Bumble Boogie](#moondance-bumble-boogie) \| ***When I Was Your Man*** \| [Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff](#prelude-in-g-minor)</sub>|
-|:-:|
 
-|<a name="prelude-in-g-minor"></a>[Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff (YouTube)](https://youtu.be/RA-6Uu009TE?feature=shared)<br/><video src='https://github.com/user-attachments/assets/3fb2fc7f-0b40-4aad-b17c-e20891a45ba3'></video><br/><br/><br/><br/><br/><br/>[:rewind:](#minidisc-albums)<ins>________________________________________&nbsp;&nbsp;</ins>[:fast_forward:](#minidisc-albums)<br/><sub>[All The Things You Are](#all-the-things-you-are) \| [Autumn Leaves](#autumn-leaves) \| [Bushel and a Peck / Chattanooga Choo Choo](#bushel-and-a-peck-chattanooga-choo-choo) \| [Close To You](#close-to-you) \| [Don't Get Around Much Anymore](#dont-get-around-much-anymore) \| [Isn't She Lovely / Piano Man](#isnt-she-lovely-piano-man) \| [Just The Two Of Us](#just-the-two-of-us) \| [Moondance / Bumble Boogie](#moondance-bumble-boogie) \| [When I Was Your Man](#when-i-was-your-man) \| ***Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff***</sub>|
-|:-:|
+<a name="just-the-two-of-us"></a><sub>[All The Things You Are](#all-the-things-you-are) \| [Autumn Leaves](#autumn-leaves) \| [Bushel and a Peck / Chattanooga Choo Choo](#bushel-and-a-peck-chattanooga-choo-choo) \| [Close To You](#close-to-you) \| [Don't Get Around Much Anymore](#dont-get-around-much-anymore) \| [Isn't She Lovely / Piano Man](#isnt-she-lovely-piano-man) \| ***Just The Two Of Us*** \| [Moondance / Bumble Boogie](#moondance-bumble-boogie) \| [When I Was Your Man](#when-i-was-your-man) \| [Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff](#prelude-in-g-minor)</sub>
+:-:
+<video src='https://github.com/user-attachments/assets/33db65bd-07ca-425e-aaa9-3b9c574139da'></video>
+<sup>[:rewind: Previous Song](#isnt-she-lovely-piano-man) [Back to Albums](#minidisc-albums) [Next Song :fast_forward:](#moondance-bumble-boogie)</sup><br/>[Just The Two Of Us (SoundCloud)](https://soundcloud.com/jasoncooperpiano/just-the-two-of-us?in=jasoncooperpiano/sets/oncooperstreet&si=e951becde20445eb948ebe9611df0d89&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+
+<br/><br/><br/><br/><br/>
+
+
+
+<a name="moondance-bumble-boogie"></a><sub>[All The Things You Are](#all-the-things-you-are) \| [Autumn Leaves](#autumn-leaves) \| [Bushel and a Peck / Chattanooga Choo Choo](#bushel-and-a-peck-chattanooga-choo-choo) \| [Close To You](#close-to-you) \| [Don't Get Around Much Anymore](#dont-get-around-much-anymore) \| [Isn't She Lovely / Piano Man](#isnt-she-lovely-piano-man) \| [Just The Two Of Us](#just-the-two-of-us) \| ***Moondance / Bumble Boogie*** \| [When I Was Your Man](#when-i-was-your-man) \| [Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff](#prelude-in-g-minor)</sub>
+:-:
+<video src='https://github.com/user-attachments/assets/d9299b6a-1107-4dd8-923e-194983d05da9'></video>
+<sup>[:rewind: Previous Song](#just-the-two-of-us) [Back to Albums](#minidisc-albums) [Next Song :fast_forward:](#when-i-was-your-man)</sup><br/>[Moondance / Bumble Boogie (SoundCloud)](https://soundcloud.com/jasoncooperpiano/moondance-bumble-boogie?in=jasoncooperpiano/sets/oncooperstreet&si=829b2671e853455fa75ca88037be9464&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+
+<br/><br/><br/><br/><br/>
+
+
+
+<a name="when-i-was-your-man"></a><sub>[All The Things You Are](#all-the-things-you-are) \| [Autumn Leaves](#autumn-leaves) \| [Bushel and a Peck / Chattanooga Choo Choo](#bushel-and-a-peck-chattanooga-choo-choo) \| [Close To You](#close-to-you) \| [Don't Get Around Much Anymore](#dont-get-around-much-anymore) \| [Isn't She Lovely / Piano Man](#isnt-she-lovely-piano-man) \| [Just The Two Of Us](#just-the-two-of-us) \| [Moondance / Bumble Boogie](#moondance-bumble-boogie) \| ***When I Was Your Man*** \| [Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff](#prelude-in-g-minor)</sub>
+:-:
+<video src='https://github.com/user-attachments/assets/2c42c60f-08cc-4a24-8323-bc42f9d5871d'></video>
+<sup>[:rewind: Previous Song](#moondance-bumble-boogie) [Back to Albums](#minidisc-albums) [Next Song :fast_forward:](#prelude-in-g-minor)</sup><br/>[When I Was Your Man (SoundCloud)](https://soundcloud.com/jasoncooperpiano/when-i-was-your-man?in=jasoncooperpiano/sets/oncooperstreet&si=b7639b53d1c6496a98e417a9f9e6c84c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+
+<br/><br/><br/><br/><br/>
+
+
+
+<a name="prelude-in-g-minor"></a><sub>[All The Things You Are](#all-the-things-you-are) \| [Autumn Leaves](#autumn-leaves) \| [Bushel and a Peck / Chattanooga Choo Choo](#bushel-and-a-peck-chattanooga-choo-choo) \| [Close To You](#close-to-you) \| [Don't Get Around Much Anymore](#dont-get-around-much-anymore) \| [Isn't She Lovely / Piano Man](#isnt-she-lovely-piano-man) \| [Just The Two Of Us](#just-the-two-of-us) \| [Moondance / Bumble Boogie](#moondance-bumble-boogie) \| [When I Was Your Man](#when-i-was-your-man) \| ***Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff***</sub>
+:-:
+<video src='https://github.com/user-attachments/assets/0fb47be5-5d1f-41a3-9964-f6d5594cf421'></video>
+<sup>[:rewind: Previous Song](#when-i-was-your-man) [Back to Albums](#minidisc-albums) [Next Song :fast_forward:](#all-the-things-you-are)</sup><br/>[Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff (YouTube)](https://youtu.be/RA-6Uu009TE?feature=shared)
+
+<br/><br/><br/><br/><br/>
