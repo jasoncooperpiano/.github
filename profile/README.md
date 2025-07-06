@@ -5,7 +5,7 @@
 :-:|:-:
 
 > [!NOTE]
-> This README music player is intended/built for desktop (full-screen recommended) and requires side-scrolling in mobile browsers (landscape mode recommended), but supports both light and dark modes similarly to .MUSIC sites. Audio playback is still only supported in GitHub Organization/Profile READMEs through video files (up to 10MB per file), but original .wav recordings are available by request (some of this music is copyrighted- if you own the rights, please email me; if you do not, use at your own risk).<br/>:computer: Desktop/Mobile Browsers: If videos appear broken, refreshing the page once should fix the GitHub player.<br/>:iphone: GitHub iOS App: Currently, images are scaled incorrectly and videos do not display at all (GitHub pls fix).
+> This README music player is intended/built for desktop and mobile browsers and is compatible with both light and dark modes. Audio playback is still only supported in GitHub Organization/Profile READMEs through video files (up to 10MB per file), but original .wav recordings are available by request (some of this music is copyrighted- if you own the rights, please email me; if you do not, use at your own risk).<br/>:computer: Desktop/Mobile Browsers: If videos appear broken, refreshing the page once should fix the GitHub player.<br/>:iphone: GitHub iOS App: Currently, images are scaled incorrectly and videos do not display at all (GitHub pls fix).
 
 <br/><br/><br/><br/><br/>
 
@@ -102,8 +102,14 @@
 
 
 
-|<a name="all-the-things-you-are"></a>[All The Things You Are (SoundCloud)](https://soundcloud.com/jasoncooperpiano/all-the-things-you-are?in=jasoncooperpiano/sets/oncooperstreet&si=36c19395abbf498c8ea4e92fee684842&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)<br/><video src='https://github.com/user-attachments/assets/d7107f85-4ba0-497b-ba39-741670c1b75a'></video><br/>[:rewind:](#minidisc-albums)<ins>________________________________________&nbsp;&nbsp;</ins>[:fast_forward:](#minidisc-albums)<br/><sub>***All The Things You Are*** \| [Autumn Leaves](#autumn-leaves) \| [Bushel and a Peck / Chattanooga Choo Choo](#bushel-and-a-peck-chattanooga-choo-choo) \| [Close To You](#close-to-you) \| [Don't Get Around Much Anymore](#dont-get-around-much-anymore) \| [Isn't She Lovely / Piano Man](#isnt-she-lovely-piano-man) \| [Just The Two Of Us](#just-the-two-of-us) \| [Moondance / Bumble Boogie](#moondance-bumble-boogie) \| [When I Was Your Man](#when-i-was-your-man) \| [Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff](#prelude-in-g-minor)</sub>|
-|:-:|
+<a name="all-the-things-you-are"></a><sub>***All The Things You Are*** \| [Autumn Leaves](#autumn-leaves) \| [Bushel and a Peck / Chattanooga Choo Choo](#bushel-and-a-peck-chattanooga-choo-choo) \| [Close To You](#close-to-you) \| [Don't Get Around Much Anymore](#dont-get-around-much-anymore) \| [Isn't She Lovely / Piano Man](#isnt-she-lovely-piano-man) \| [Just The Two Of Us](#just-the-two-of-us) \| [Moondance / Bumble Boogie](#moondance-bumble-boogie) \| [When I Was Your Man](#when-i-was-your-man) \| [Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff](#prelude-in-g-minor)</sub>
+:-:
+<video src='https://github.com/user-attachments/assets/dc2b410f-957a-436b-98d0-12bc27f91a72'></video>
+<sup>[:rewind: Previous Song](#prelude-in-g-minor) [Back to Albums](#minidisc-albums) [Next Song :fast_forward:](#autumn-leaves)</sup><br/>[All The Things You Are (SoundCloud)](https://soundcloud.com/jasoncooperpiano/all-the-things-you-are?in=jasoncooperpiano/sets/oncooperstreet&si=36c19395abbf498c8ea4e92fee684842&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+
+<br/><br/><br/><br/><br/>
+
+
 
 |<a name="autumn-leaves"></a>[Autumn Leaves (SoundCloud)](https://soundcloud.com/jasoncooperpiano/autumn-leaves?in=jasoncooperpiano/sets/oncooperstreet&si=ff9b557154ba45eaa97e1d454468882e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)<br/><video src='https://github.com/user-attachments/assets/49cd3525-f33c-4ea8-85de-4f9b3a6d590b'></video><br/>[:rewind:](#minidisc-albums)<ins>________________________________________&nbsp;&nbsp;</ins>[:fast_forward:](#minidisc-albums)<br/><sub>[All The Things You Are](#all-the-things-you-are) \| ***Autumn Leaves*** \| [Bushel and a Peck / Chattanooga Choo Choo](#bushel-and-a-peck-chattanooga-choo-choo) \| [Close To You](#close-to-you) \| [Don't Get Around Much Anymore](#dont-get-around-much-anymore) \| [Isn't She Lovely / Piano Man](#isnt-she-lovely-piano-man) \| [Just The Two Of Us](#just-the-two-of-us) \| [Moondance / Bumble Boogie](#moondance-bumble-boogie) \| [When I Was Your Man](#when-i-was-your-man) \| [Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff](#prelude-in-g-minor)</sub>|
 |:-:|
