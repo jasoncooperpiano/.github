@@ -348,7 +348,7 @@
 <sup>[:rewind: Previous Song](#when-i-was-your-man) • [Back to Albums](#albums) • [Next Song :fast_forward:](#all-the-things-you-are)</sup><br/>[Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff (YouTube)](https://youtu.be/RA-6Uu009TE?feature=shared)
 
 > [!TIP]
-> Videos start muted by default — Try refreshing the page if videos won't load.<br/><br/>The navigation links/buttons work like a Wikipedia table — Try [their FAQ (Wikipedia)](https://en.wikipedia.org/wiki/Wikipedia:FAQ) for an example.
+> Videos start muted by default — Try refreshing the page if clicking play doesn't work.<br/><br/>The navigation links/buttons work like a Wikipedia table — Try [their FAQ (Wikipedia)](https://en.wikipedia.org/wiki/Wikipedia:FAQ) for an example.
 
 
 
