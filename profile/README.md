@@ -23,7 +23,7 @@
 <sup>[:rewind: Previous Song](#the-christmas-song) [Back to Albums](#albums) [Next Song :fast_forward:](#all-i-want-for-christmas-is-you)</sup><br/>[A Holly Jolly Christmas (SoundCloud)](https://soundcloud.com/jasoncooperpiano/a-holly-jolly-christmas?in=jasoncooperpiano/sets/ajasoncooperchristmas&si=0ec70b1fc5c34dbb8e876b60ff0118a6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
 > [!TIP]
-> > Click a song title link to open it in the README music player (and listen directly on GitHub).
+> Click a song title link to open it in the README music player (and listen directly on GitHub).
 
 
 
@@ -42,14 +42,7 @@
 
 > [!TIP]
 > Click a song title link to open it in the README music player (and listen directly on GitHub).
-
-
-
-
-[!WARNING]
   
-
-
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <a name="christmas-time-is-here"></a><sub>[A Holly Jolly Christmas](#a-holly-jolly-christmas) \| [All I Want For Christmas Is You](#all-i-want-for-christmas-is-you) \| ***Christmas Time Is Here*** \| [I'll Be Home For Christmas](#ill-be-home-for-christmas) \| [I've Got My Love To Keep Me Warm](#ive-got-my-love-to-keep-me-warm) \| [Jingle Bells](#jingle-bells) \| [O Christmas Tree](#o-christmas-tree) \| [Rockin' Around The Christmas Tree](#rockin-around-the-christmas-tree) \| [Rudolph The Red Nosed Reindeer](#rudolph-the-red-nosed-reindeer) \| [The Christmas Song](#the-christmas-song)</sub>
 :-:
