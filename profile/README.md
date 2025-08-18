@@ -5,7 +5,7 @@
 :-:|:-:
 
 > [!TIP]
-> Swipe right/left to move between albums (on mobile). Click a song title link to open it in the README music player (and listen directly on GitHub).<br/><br/>:computer: Desktop/Mobile Browsers: If videos appear broken, refreshing the page once should fix the GitHub player.<br/><br/>:iphone: GitHub iOS App: Currently, videos do not display at all (GitHub pls fix).
+> Swipe right/left between albums (mobile browsers). Click a song title link to open it in the README music player (and listen directly on GitHub).<br/><br/>:computer: Desktop/Mobile Browsers: If videos appear broken, refreshing the page once should fix the GitHub player.<br/><br/>:iphone: GitHub iOS App: Currently, videos do not display at all (GitHub pls fix).
 
 > [!NOTE]
 > This README music player is intended/built for desktop and mobile/in-app browsers and is compatible with both light and dark modes.<br/><br/>Audio playback is still only supported in GitHub Organization/Profile READMEs through video files (videos begin muted by default!).<br/><br/>Original .wav recordings are available by request (some of this music is copyrighted- if you own the rights, please email me; if you do not, use at your own risk).
