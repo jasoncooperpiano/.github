@@ -348,7 +348,7 @@
 <sup>[:rewind: Previous Song](#when-i-was-your-man) • [Back to Albums](#albums) • [Next Song :fast_forward:](#all-the-things-you-are)</sup><br/>[Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff (YouTube)](https://youtu.be/RA-6Uu009TE?feature=shared)
 
 > [!TIP]
-> Instructions:<br/><br/>1. Click a song title/link to open it in the README music player (and listen directly on GitHub).<br/><br/>2. Videos begin muted by default. If videos will not load, refreshing the page once should fix the GitHub player.<br/><br/>3. Vertically scrolling between the songs/albums (instead of clicking the song titles/links or the navigation menu) is possible, but not recommended.<br/><br/>:iphone: GitHub iOS App Users: The README music player does not work, since video files do not currently display in GitHub Organization/Profile READMEs at all, but external links are provided (to listen on SoundCloud/YouTube).
+> Videos start muted by default — Try refreshing the page if videos won't load.<br/><br/>The navigation links/buttons work like a Wikipedia table — Try [their FAQ (Wikipedia)](https://en.wikipedia.org/wiki/Wikipedia:FAQ) for an example.
 
 
 
