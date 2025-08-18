@@ -1,7 +1,7 @@
 <a href="https://www.jasoncooperpiano.com"><img src="https://github.com/user-attachments/assets/de1dc0ea-97a3-40aa-a027-ad44b7af9302" alt="Jason Cooper Piano Cover (www.jasoncooperpiano.com)"></a>
 # <a href='https://www.jasoncooperpiano.com'><img src='https://github.com/user-attachments/assets/031590f8-e85a-4e16-ab45-ee3b29f03b91' style='width:47px;height:47px;'></a><sup>  Jason Cooper Piano</sup>
 ### Albums
-[On Cooper Street (SoundCloud)](https://soundcloud.com/jasoncooperpiano/sets/oncooperstreet?si=fcbfbf98b6b3425ab954d63016038917&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)</sup><br/><sub><a href="https://soundcloud.com/jasoncooperpiano/sets/oncooperstreet?si=fcbfbf98b6b3425ab954d63016038917&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://github.com/user-attachments/assets/687f88f0-46ca-47cd-8238-8a55642fe7be" alt="On Cooper Street (SoundCloud)" style="width:240px;height:240px;"></a></sub><br/><sup>_______________________________________________</sup><br/><sub>[All The Things You Are](#all-the-things-you-are) \| [Autumn Leaves](#autumn-leaves) \| [Bushel and a Peck / Chattanooga Choo Choo](#bushel-and-a-peck-chattanooga-choo-choo) \| [Close To You](#close-to-you) \| [Don't Get Around Much Anymore](#dont-get-around-much-anymore) \| [Isn't She Lovely / Piano Man](#isnt-she-lovely-piano-man) \| [Just The Two Of Us](#just-the-two-of-us) \| [Moondance / Bumble Boogie](#moondance-bumble-boogie) \| [When I Was Your Man](#when-i-was-your-man) \| [Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff](#prelude-in-g-minor)</sub><br/>|[A Jason Cooper Christmas (SoundCloud)](https://soundcloud.com/jasoncooperpiano/sets/ajasoncooperchristmas?si=ef5b0c1a4bb44e05855c37c80a20ac9a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)<br/><sub><a href="https://soundcloud.com/jasoncooperpiano/sets/ajasoncooperchristmas?si=ef5b0c1a4bb44e05855c37c80a20ac9a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://github.com/user-attachments/assets/2e508715-ea33-43ec-9d67-68cd13c35f2a" alt="A Jason Cooper Christmas (SoundCloud)" style="width:240px;height:240px;"></a></sub><br/><sup>_______________________________________________</sup><br/><sub>[A Holly Jolly Christmas](#a-holly-jolly-christmas) \| [All I Want For Christmas Is You](#all-i-want-for-christmas-is-you) \| [Christmas Time Is Here](#christmas-time-is-here) \| [I'll Be Home For Christmas](#ill-be-home-for-christmas) \| [I've Got My Love To Keep Me Warm](#ive-got-my-love-to-keep-me-warm) \| [Jingle Bells](#jingle-bells) \| [O Christmas Tree](#o-christmas-tree) \| [Rockin' Around The Christmas Tree](#rockin-around-the-christmas-tree) \| [Rudolph The Red Nosed Reindeer](#rudolph-the-red-nosed-reindeer) \| [The Christmas Song](#the-christmas-song)</sub>
+[On Cooper Street (SoundCloud)](https://soundcloud.com/jasoncooperpiano/sets/oncooperstreet?si=fcbfbf98b6b3425ab954d63016038917&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)</sup><br/><sub><a href="https://soundcloud.com/jasoncooperpiano/sets/oncooperstreet?si=fcbfbf98b6b3425ab954d63016038917&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://github.com/user-attachments/assets/687f88f0-46ca-47cd-8238-8a55642fe7be" alt="On Cooper Street (SoundCloud)" style="width:240px;height:240px;"></a></sub><br/><sup>_______________________________________________</sup><br/><sub>[All The Things You Are](#all-the-things-you-are) \| [Autumn Leaves](#autumn-leaves) \| [Bushel and a Peck / Chattanooga Choo Choo](#bushel-and-a-peck-chattanooga-choo-choo) \| [Close To You](#close-to-you) \| [Don't Get Around Much Anymore](#dont-get-around-much-anymore) \| [Isn't She Lovely / Piano Man](#isnt-she-lovely-piano-man) \| [Just The Two Of Us](#just-the-two-of-us) \| [Moondance / Bumble Boogie](#moondance-bumble-boogie) \| [When I Was Your Man](#when-i-was-your-man) \| [Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff](#rachmaninoff)</sub><br/>|[A Jason Cooper Christmas (SoundCloud)](https://soundcloud.com/jasoncooperpiano/sets/ajasoncooperchristmas?si=ef5b0c1a4bb44e05855c37c80a20ac9a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)<br/><sub><a href="https://soundcloud.com/jasoncooperpiano/sets/ajasoncooperchristmas?si=ef5b0c1a4bb44e05855c37c80a20ac9a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://github.com/user-attachments/assets/2e508715-ea33-43ec-9d67-68cd13c35f2a" alt="A Jason Cooper Christmas (SoundCloud)" style="width:240px;height:240px;"></a></sub><br/><sup>_______________________________________________</sup><br/><sub>[A Holly Jolly Christmas](#a-holly-jolly-christmas) \| [All I Want For Christmas Is You](#all-i-want-for-christmas-is-you) \| [Christmas Time Is Here](#christmas-time-is-here) \| [I'll Be Home For Christmas](#ill-be-home-for-christmas) \| [I've Got My Love To Keep Me Warm](#ive-got-my-love-to-keep-me-warm) \| [Jingle Bells](#jingle-bells) \| [O Christmas Tree](#o-christmas-tree) \| [Rockin' Around The Christmas Tree](#rockin-around-the-christmas-tree) \| [Rudolph The Red Nosed Reindeer](#rudolph-the-red-nosed-reindeer) \| [The Christmas Song](#the-christmas-song)</sub>
 :-:|:-:
 
 > [!TIP]
@@ -25,14 +25,14 @@
 > [!TIP]
 > > Click a song title link to open it in the README music player (and listen directly on GitHub).
 
-> [!NOTE]
-> This README music player is intended/built for desktop and mobile/in-app browsers and is compatible with both light and dark modes. Audio playback is still only supported in GitHub Organization/Profile READMEs through video files (videos begin muted by default!).
 
-> [!WARNING]
-> Original .wav recordings are available by request (some of this music is copyrighted- if you own the rights, please email me; if you do not, use at your own risk).
 
-> [!IMPORTANT]
-> :computer: Desktop/Mobile Browsers: If videos appear broken, refreshing the page once should fix the GitHub player.<br/>:iphone: GitHub iOS App: Currently, images are scaled incorrectly and videos do not display at all (GitHub pls fix).
+
+
+
+
+
+
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <a name="all-i-want-for-christmas-is-you"></a><sub>[A Holly Jolly Christmas](#a-holly-jolly-christmas) \| ***All I Want For Christmas Is You*** \| [Christmas Time Is Here](#christmas-time-is-here) \| [I'll Be Home For Christmas](#ill-be-home-for-christmas) \| [I've Got My Love To Keep Me Warm](#ive-got-my-love-to-keep-me-warm) \| [Jingle Bells](#jingle-bells) \| [O Christmas Tree](#o-christmas-tree) \| [Rockin' Around The Christmas Tree](#rockin-around-the-christmas-tree) \| [Rudolph The Red Nosed Reindeer](#rudolph-the-red-nosed-reindeer) \| [The Christmas Song](#the-christmas-song)</sub>
@@ -43,12 +43,12 @@
 > [!TIP]
 > Click a song title link to open it in the README music player (and listen directly on GitHub).
 
-> [!NOTE]
-> This README music player is intended/built for desktop and mobile/in-app browsers and is compatible with both light and dark modes. Audio playback is still only supported in GitHub Organization/Profile READMEs through video files (videos begin muted by default!).
+
+
 
 [!WARNING]
-> Original .wav recordings are available by request (some of this music is copyrighted- if you own the rights, please email me; if you do not, use at your own risk).  > [!IMPORTANT]
-> :computer: Desktop/Mobile Browsers: If videos appear broken, refreshing the page once should fix the GitHub player.<br/>:iphone: GitHub iOS App: Currently, images are scaled incorrectly and videos do not display at all (GitHub pls fix).
+  
+
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <a name="christmas-time-is-here"></a><sub>[A Holly Jolly Christmas](#a-holly-jolly-christmas) \| [All I Want For Christmas Is You](#all-i-want-for-christmas-is-you) \| ***Christmas Time Is Here*** \| [I'll Be Home For Christmas](#ill-be-home-for-christmas) \| [I've Got My Love To Keep Me Warm](#ive-got-my-love-to-keep-me-warm) \| [Jingle Bells](#jingle-bells) \| [O Christmas Tree](#o-christmas-tree) \| [Rockin' Around The Christmas Tree](#rockin-around-the-christmas-tree) \| [Rudolph The Red Nosed Reindeer](#rudolph-the-red-nosed-reindeer) \| [The Christmas Song](#the-christmas-song)</sub>
@@ -59,11 +59,11 @@
 > [!TIP]
 > Click a song title link to open it in the README music player (and listen directly on GitHub).
 
-> [!NOTE]
-> This README music player is intended/built for desktop and mobile/in-app browsers and is compatible with both light and dark modes. Audio playback is still only supported in GitHub Organization/Profile READMEs through video files (videos begin muted by default!).  > [!WARNING] > Original .wav recordings are available by request (some of this music is copyrighted- if you own the rights, please email me; if you do not, use at your own risk).
 
-> [!IMPORTANT]
-> :computer: Desktop/Mobile Browsers: If videos appear broken, refreshing the page once should fix the GitHub player.<br/>:iphone: GitHub iOS App: Currently, images are scaled incorrectly and videos do not display at all (GitHub pls fix).
+   
+
+
+
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <a name="ill-be-home-for-christmas"></a><sub>[A Holly Jolly Christmas](#a-holly-jolly-christmas) \| [All I Want For Christmas Is You](#all-i-want-for-christmas-is-you) \| [Christmas Time Is Here](#christmas-time-is-here) \| ***I'll Be Home For Christmas*** \| [I've Got My Love To Keep Me Warm](#ive-got-my-love-to-keep-me-warm) \| [Jingle Bells](#jingle-bells) \| [O Christmas Tree](#o-christmas-tree) \| [Rockin' Around The Christmas Tree](#rockin-around-the-christmas-tree) \| [Rudolph The Red Nosed Reindeer](#rudolph-the-red-nosed-reindeer) \| [The Christmas Song](#the-christmas-song)</sub>
@@ -74,14 +74,14 @@
 > [!TIP]
 > Click a song title link to open it in the README music player (and listen directly on GitHub).
 
-> [!NOTE]
-> This README music player is intended/built for desktop and mobile/in-app browsers and is compatible with both light and dark modes. Audio playback is still only supported in GitHub Organization/Profile READMEs through video files (videos begin muted by default!).
 
-> [!WARNING]
-> Original .wav recordings are available by request (some of this music is copyrighted- if you own the rights, please email me; if you do not, use at your own risk).
 
-> [!IMPORTANT]
-> :computer: Desktop/Mobile Browsers: If videos appear broken, refreshing the page once should fix the GitHub player.<br/>:iphone: GitHub iOS App: Currently, images are scaled incorrectly and videos do not display at all (GitHub pls fix).
+
+
+
+
+
+
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <a name="ive-got-my-love-to-keep-me-warm"></a><sub>[A Holly Jolly Christmas](#a-holly-jolly-christmas) \| [All I Want For Christmas Is You](#all-i-want-for-christmas-is-you) \| [Christmas Time Is Here](#christmas-time-is-here) \| [I'll Be Home For Christmas](#ill-be-home-for-christmas) \| ***I've Got My Love To Keep Me Warm*** \| [Jingle Bells](#jingle-bells) \| [O Christmas Tree](#o-christmas-tree) \| [Rockin' Around The Christmas Tree](#rockin-around-the-christmas-tree) \| [Rudolph The Red Nosed Reindeer](#rudolph-the-red-nosed-reindeer) \| [The Christmas Song](#the-christmas-song)</sub>
@@ -92,14 +92,14 @@
 > [!TIP]
 > Click a song title link to open it in the README music player (and listen directly on GitHub).
 
-> [!NOTE]
-> This README music player is intended/built for desktop and mobile/in-app browsers and is compatible with both light and dark modes. Audio playback is still only supported in GitHub Organization/Profile READMEs through video files (videos begin muted by default!).
 
-> [!WARNING]
-> Original .wav recordings are available by request (some of this music is copyrighted- if you own the rights, please email me; if you do not, use at your own risk).
 
-> [!IMPORTANT]
-> :computer: Desktop/Mobile Browsers: If videos appear broken, refreshing the page once should fix the GitHub player.<br/>:iphone: GitHub iOS App: Currently, images are scaled incorrectly and videos do not display at all (GitHub pls fix).
+
+
+
+
+
+
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <a name="jingle-bells"></a><sub>[A Holly Jolly Christmas](#a-holly-jolly-christmas) \| [All I Want For Christmas Is You](#all-i-want-for-christmas-is-you) \| [Christmas Time Is Here](#christmas-time-is-here) \| [I'll Be Home For Christmas](#ill-be-home-for-christmas) \| [I've Got My Love To Keep Me Warm](#ive-got-my-love-to-keep-me-warm) \| ***Jingle Bells*** \| [O Christmas Tree](#o-christmas-tree) \| [Rockin' Around The Christmas Tree](#rockin-around-the-christmas-tree) \| [Rudolph The Red Nosed Reindeer](#rudolph-the-red-nosed-reindeer) \| [The Christmas Song](#the-christmas-song)</sub>
@@ -110,14 +110,14 @@
 > [!TIP]
 > Click a song title link to open it in the README music player (and listen directly on GitHub).
 
-> [!NOTE]
-> This README music player is intended/built for desktop and mobile/in-app browsers and is compatible with both light and dark modes. Audio playback is still only supported in GitHub Organization/Profile READMEs through video files (videos begin muted by default!).
 
-> [!WARNING]
-> Original .wav recordings are available by request (some of this music is copyrighted- if you own the rights, please email me; if you do not, use at your own risk).
 
-> [!IMPORTANT]
-> :computer: Desktop/Mobile Browsers: If videos appear broken, refreshing the page once should fix the GitHub player.<br/>:iphone: GitHub iOS App: Currently, images are scaled incorrectly and videos do not display at all (GitHub pls fix).
+
+
+
+
+
+
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <a name="o-christmas-tree"></a><sub>[A Holly Jolly Christmas](#a-holly-jolly-christmas) \| [All I Want For Christmas Is You](#all-i-want-for-christmas-is-you) \| [Christmas Time Is Here](#christmas-time-is-here) \| [I'll Be Home For Christmas](#ill-be-home-for-christmas) \| [I've Got My Love To Keep Me Warm](#ive-got-my-love-to-keep-me-warm) \| [Jingle Bells](#jingle-bells) \| ***O Christmas Tree*** \| [Rockin' Around The Christmas Tree](#rockin-around-the-christmas-tree) \| [Rudolph The Red Nosed Reindeer](#rudolph-the-red-nosed-reindeer) \| [The Christmas Song](#the-christmas-song)</sub>
@@ -128,14 +128,14 @@
 > [!TIP]
 > Click a song title link to open it in the README music player (and listen directly on GitHub).
 
-> [!NOTE]
-> This README music player is intended/built for desktop and mobile/in-app browsers and is compatible with both light and dark modes. Audio playback is still only supported in GitHub Organization/Profile READMEs through video files (videos begin muted by default!).
 
-> [!WARNING]
-> Original .wav recordings are available by request (some of this music is copyrighted- if you own the rights, please email me; if you do not, use at your own risk).
 
-> [!IMPORTANT]
-> :computer: Desktop/Mobile Browsers: If videos appear broken, refreshing the page once should fix the GitHub player.<br/>:iphone: GitHub iOS App: Currently, images are scaled incorrectly and videos do not display at all (GitHub pls fix).
+
+
+
+
+
+
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <a name="rockin-around-the-christmas-tree"></a><sub>[A Holly Jolly Christmas](#a-holly-jolly-christmas) \| [All I Want For Christmas Is You](#all-i-want-for-christmas-is-you) \| [Christmas Time Is Here](#christmas-time-is-here) \| [I'll Be Home For Christmas](#ill-be-home-for-christmas) \| [I've Got My Love To Keep Me Warm](#ive-got-my-love-to-keep-me-warm) \| [Jingle Bells](#jingle-bells) \| [O Christmas Tree](#o-christmas-tree) \| ***Rockin' Around The Christmas Tree*** \| [Rudolph The Red Nosed Reindeer](#rudolph-the-red-nosed-reindeer) \| [The Christmas Song](#the-christmas-song)</sub>
@@ -146,14 +146,14 @@
 > [!TIP]
 > Click a song title link to open it in the README music player (and listen directly on GitHub).
 
-> [!NOTE]
-> This README music player is intended/built for desktop and mobile/in-app browsers and is compatible with both light and dark modes. Audio playback is still only supported in GitHub Organization/Profile READMEs through video files (videos begin muted by default!).
 
-> [!WARNING]
-> Original .wav recordings are available by request (some of this music is copyrighted- if you own the rights, please email me; if you do not, use at your own risk).
 
-> [!IMPORTANT]
-> :computer: Desktop/Mobile Browsers: If videos appear broken, refreshing the page once should fix the GitHub player.<br/>:iphone: GitHub iOS App: Currently, images are scaled incorrectly and videos do not display at all (GitHub pls fix).
+
+
+
+
+
+
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <a name="rudolph-the-red-nosed-reindeer"></a><sub>[A Holly Jolly Christmas](#a-holly-jolly-christmas) \| [All I Want For Christmas Is You](#all-i-want-for-christmas-is-you) \| [Christmas Time Is Here](#christmas-time-is-here) \| [I'll Be Home For Christmas](#ill-be-home-for-christmas) \| [I've Got My Love To Keep Me Warm](#ive-got-my-love-to-keep-me-warm) \| [Jingle Bells](#jingle-bells) \| [O Christmas Tree](#o-christmas-tree) \| [Rockin' Around The Christmas Tree](#rockin-around-the-christmas-tree) \| ***Rudolph The Red Nosed Reindeer*** \| [The Christmas Song](#the-christmas-song)</sub>
@@ -164,14 +164,14 @@
 > [!TIP]
 > Click a song title link to open it in the README music player (and listen directly on GitHub).
 
-> [!NOTE]
-> This README music player is intended/built for desktop and mobile/in-app browsers and is compatible with both light and dark modes. Audio playback is still only supported in GitHub Organization/Profile READMEs through video files (videos begin muted by default!).
 
-> [!WARNING]
-> Original .wav recordings are available by request (some of this music is copyrighted- if you own the rights, please email me; if you do not, use at your own risk).
 
-> [!IMPORTANT]
-> :computer: Desktop/Mobile Browsers: If videos appear broken, refreshing the page once should fix the GitHub player.<br/>:iphone: GitHub iOS App: Currently, images are scaled incorrectly and videos do not display at all (GitHub pls fix).
+
+
+
+
+
+
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <a name="the-christmas-song"></a><sub>[A Holly Jolly Christmas](#a-holly-jolly-christmas) \| [All I Want For Christmas Is You](#all-i-want-for-christmas-is-you) \| [Christmas Time Is Here](#christmas-time-is-here) \| [I'll Be Home For Christmas](#ill-be-home-for-christmas) \| [I've Got My Love To Keep Me Warm](#ive-got-my-love-to-keep-me-warm) \| [Jingle Bells](#jingle-bells) \| [O Christmas Tree](#o-christmas-tree) \| [Rockin' Around The Christmas Tree](#rockin-around-the-christmas-tree) \| [Rudolph The Red Nosed Reindeer](#rudolph-the-red-nosed-reindeer) \| ***The Christmas Song***</sub>
@@ -182,35 +182,35 @@
 > [!TIP]
 > Click a song title link to open it in the README music player (and listen directly on GitHub).
 
-> [!NOTE]
-> This README music player is intended/built for desktop and mobile/in-app browsers and is compatible with both light and dark modes. Audio playback is still only supported in GitHub Organization/Profile READMEs through video files (videos begin muted by default!).
 
-> [!WARNING]
-> Original .wav recordings are available by request (some of this music is copyrighted- if you own the rights, please email me; if you do not, use at your own risk).
 
-> [!IMPORTANT]
-> :computer: Desktop/Mobile Browsers: If videos appear broken, refreshing the page once should fix the GitHub player.<br/>:iphone: GitHub iOS App: Currently, images are scaled incorrectly and videos do not display at all (GitHub pls fix).
+
+
+
+
+
+
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<a name="all-the-things-you-are"></a><sub>***All The Things You Are*** \| [Autumn Leaves](#autumn-leaves) \| [Bushel and a Peck / Chattanooga Choo Choo](#bushel-and-a-peck-chattanooga-choo-choo) \| [Close To You](#close-to-you) \| [Don't Get Around Much Anymore](#dont-get-around-much-anymore) \| [Isn't She Lovely / Piano Man](#isnt-she-lovely-piano-man) \| [Just The Two Of Us](#just-the-two-of-us) \| [Moondance / Bumble Boogie](#moondance-bumble-boogie) \| [When I Was Your Man](#when-i-was-your-man) \| [Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff](#prelude-in-g-minor)</sub>
+<a name="all-the-things-you-are"></a><sub>***All The Things You Are*** \| [Autumn Leaves](#autumn-leaves) \| [Bushel and a Peck / Chattanooga Choo Choo](#bushel-and-a-peck-chattanooga-choo-choo) \| [Close To You](#close-to-you) \| [Don't Get Around Much Anymore](#dont-get-around-much-anymore) \| [Isn't She Lovely / Piano Man](#isnt-she-lovely-piano-man) \| [Just The Two Of Us](#just-the-two-of-us) \| [Moondance / Bumble Boogie](#moondance-bumble-boogie) \| [When I Was Your Man](#when-i-was-your-man) \| [Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff](#rachmaninoff)</sub>
 :-:
 <video src='https://github.com/user-attachments/assets/dc2b410f-957a-436b-98d0-12bc27f91a72'></video>
-<sup>[:rewind: Previous Song](#prelude-in-g-minor) [Back to Albums](#albums) [Next Song :fast_forward:](#autumn-leaves)</sup><br/>[All The Things You Are (SoundCloud)](https://soundcloud.com/jasoncooperpiano/all-the-things-you-are?in=jasoncooperpiano/sets/oncooperstreet&si=36c19395abbf498c8ea4e92fee684842&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+<sup>[:rewind: Previous Song](#rachmaninoff) [Back to Albums](#albums) [Next Song :fast_forward:](#autumn-leaves)</sup><br/>[All The Things You Are (SoundCloud)](https://soundcloud.com/jasoncooperpiano/all-the-things-you-are?in=jasoncooperpiano/sets/oncooperstreet&si=36c19395abbf498c8ea4e92fee684842&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
 > [!TIP]
 > Click a song title link to open it in the README music player (and listen directly on GitHub).
 
-> [!NOTE]
-> This README music player is intended/built for desktop and mobile/in-app browsers and is compatible with both light and dark modes. Audio playback is still only supported in GitHub Organization/Profile READMEs through video files (videos begin muted by default!).
 
-> [!WARNING]
-> Original .wav recordings are available by request (some of this music is copyrighted- if you own the rights, please email me; if you do not, use at your own risk).
 
-> [!IMPORTANT]
-> :computer: Desktop/Mobile Browsers: If videos appear broken, refreshing the page once should fix the GitHub player.<br/>:iphone: GitHub iOS App: Currently, images are scaled incorrectly and videos do not display at all (GitHub pls fix).
+
+
+
+
+
+
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<a name="autumn-leaves"></a><sub>[All The Things You Are](#all-the-things-you-are) \| ***Autumn Leaves*** \| [Bushel and a Peck / Chattanooga Choo Choo](#bushel-and-a-peck-chattanooga-choo-choo) \| [Close To You](#close-to-you) \| [Don't Get Around Much Anymore](#dont-get-around-much-anymore) \| [Isn't She Lovely / Piano Man](#isnt-she-lovely-piano-man) \| [Just The Two Of Us](#just-the-two-of-us) \| [Moondance / Bumble Boogie](#moondance-bumble-boogie) \| [When I Was Your Man](#when-i-was-your-man) \| [Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff](#prelude-in-g-minor)</sub>
+<a name="autumn-leaves"></a><sub>[All The Things You Are](#all-the-things-you-are) \| ***Autumn Leaves*** \| [Bushel and a Peck / Chattanooga Choo Choo](#bushel-and-a-peck-chattanooga-choo-choo) \| [Close To You](#close-to-you) \| [Don't Get Around Much Anymore](#dont-get-around-much-anymore) \| [Isn't She Lovely / Piano Man](#isnt-she-lovely-piano-man) \| [Just The Two Of Us](#just-the-two-of-us) \| [Moondance / Bumble Boogie](#moondance-bumble-boogie) \| [When I Was Your Man](#when-i-was-your-man) \| [Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff](#rachmaninoff)</sub>
 :-:
 <video src='https://github.com/user-attachments/assets/6011599a-4487-49fa-a09b-60ec2ba0ca1a'></video>
 <sup>[:rewind: Previous Song](#all-the-things-you-are) [Back to Albums](#albums) [Next Song :fast_forward:](#bushel-and-a-peck-chattanooga-choo-choo)</sup><br/>[Autumn Leaves (SoundCloud)](https://soundcloud.com/jasoncooperpiano/autumn-leaves?in=jasoncooperpiano/sets/oncooperstreet&si=ff9b557154ba45eaa97e1d454468882e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
@@ -218,17 +218,17 @@
 > [!TIP]
 > Click a song title link to open it in the README music player (and listen directly on GitHub).
 
-> [!NOTE]
-> This README music player is intended/built for desktop and mobile/in-app browsers and is compatible with both light and dark modes. Audio playback is still only supported in GitHub Organization/Profile READMEs through video files (videos begin muted by default!).
 
-> [!WARNING]
-> Original .wav recordings are available by request (some of this music is copyrighted- if you own the rights, please email me; if you do not, use at your own risk).
 
-> [!IMPORTANT]
-> :computer: Desktop/Mobile Browsers: If videos appear broken, refreshing the page once should fix the GitHub player.<br/>:iphone: GitHub iOS App: Currently, images are scaled incorrectly and videos do not display at all (GitHub pls fix).
+
+
+
+
+
+
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<a name="bushel-and-a-peck-chattanooga-choo-choo"></a><sub>[All The Things You Are](#all-the-things-you-are) \| [Autumn Leaves](#autumn-leaves) \| ***Bushel and a Peck / Chattanooga Choo Choo*** \| [Close To You](#close-to-you) \| [Don't Get Around Much Anymore](#dont-get-around-much-anymore) \| [Isn't She Lovely / Piano Man](#isnt-she-lovely-piano-man) \| [Just The Two Of Us](#just-the-two-of-us) \| [Moondance / Bumble Boogie](#moondance-bumble-boogie) \| [When I Was Your Man](#when-i-was-your-man) \| [Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff](#prelude-in-g-minor)</sub>
+<a name="bushel-and-a-peck-chattanooga-choo-choo"></a><sub>[All The Things You Are](#all-the-things-you-are) \| [Autumn Leaves](#autumn-leaves) \| ***Bushel and a Peck / Chattanooga Choo Choo*** \| [Close To You](#close-to-you) \| [Don't Get Around Much Anymore](#dont-get-around-much-anymore) \| [Isn't She Lovely / Piano Man](#isnt-she-lovely-piano-man) \| [Just The Two Of Us](#just-the-two-of-us) \| [Moondance / Bumble Boogie](#moondance-bumble-boogie) \| [When I Was Your Man](#when-i-was-your-man) \| [Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff](#rachmaninoff)</sub>
 :-:
 <video src='https://github.com/user-attachments/assets/2a2dde8f-970a-4c6e-9543-bdf75d048210'></video>
 <sup>[:rewind: Previous Song](#autumn-leaves) [Back to Albums](#albums) [Next Song :fast_forward:](#close-to-you)</sup><br/>[Bushel and a Peck / Chattanooga Choo Choo (SoundCloud)](https://soundcloud.com/jasoncooperpiano/bushel-and-a-peck-chattanooga-choo-choo?in=jasoncooperpiano/sets/oncooperstreet&si=1facad5141654eaf92ff7d72dfd77e16&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
@@ -236,17 +236,17 @@
 > [!TIP]
 > Click a song title link to open it in the README music player (and listen directly on GitHub).
 
-> [!NOTE]
-> This README music player is intended/built for desktop and mobile/in-app browsers and is compatible with both light and dark modes. Audio playback is still only supported in GitHub Organization/Profile READMEs through video files (videos begin muted by default!).
 
-> [!WARNING]
-> Original .wav recordings are available by request (some of this music is copyrighted- if you own the rights, please email me; if you do not, use at your own risk).
 
-> [!IMPORTANT]
-> :computer: Desktop/Mobile Browsers: If videos appear broken, refreshing the page once should fix the GitHub player.<br/>:iphone: GitHub iOS App: Currently, images are scaled incorrectly and videos do not display at all (GitHub pls fix).
+
+
+
+
+
+
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<a name="close-to-you"></a><sub>[All The Things You Are](#all-the-things-you-are) \| [Autumn Leaves](#autumn-leaves) \| [Bushel and a Peck / Chattanooga Choo Choo](#bushel-and-a-peck-chattanooga-choo-choo) \| ***Close To You*** \| [Don't Get Around Much Anymore](#dont-get-around-much-anymore) \| [Isn't She Lovely / Piano Man](#isnt-she-lovely-piano-man) \| [Just The Two Of Us](#just-the-two-of-us) \| [Moondance / Bumble Boogie](#moondance-bumble-boogie) \| [When I Was Your Man](#when-i-was-your-man) \| [Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff](#prelude-in-g-minor)</sub>
+<a name="close-to-you"></a><sub>[All The Things You Are](#all-the-things-you-are) \| [Autumn Leaves](#autumn-leaves) \| [Bushel and a Peck / Chattanooga Choo Choo](#bushel-and-a-peck-chattanooga-choo-choo) \| ***Close To You*** \| [Don't Get Around Much Anymore](#dont-get-around-much-anymore) \| [Isn't She Lovely / Piano Man](#isnt-she-lovely-piano-man) \| [Just The Two Of Us](#just-the-two-of-us) \| [Moondance / Bumble Boogie](#moondance-bumble-boogie) \| [When I Was Your Man](#when-i-was-your-man) \| [Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff](#rachmaninoff)</sub>
 :-:
 <video src='https://github.com/user-attachments/assets/50451d06-e9bf-482d-8d1d-d6617de4c51b'></video>
 <sup>[:rewind: Previous Song](#bushel-and-a-peck-chattanooga-choo-choo) [Back to Albums](#albums) [Next Song :fast_forward:](#dont-get-around-much-anymore)</sup><br/>[Close To You (SoundCloud)](https://soundcloud.com/jasoncooperpiano/close-to-you?in=jasoncooperpiano/sets/oncooperstreet&si=a13995cfe5af421688dd093d3f064a50&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
@@ -254,17 +254,17 @@
 > [!TIP]
 > Click a song title link to open it in the README music player (and listen directly on GitHub).
 
-> [!NOTE]
-> This README music player is intended/built for desktop and mobile/in-app browsers and is compatible with both light and dark modes. Audio playback is still only supported in GitHub Organization/Profile READMEs through video files (videos begin muted by default!).
 
-> [!WARNING]
-> Original .wav recordings are available by request (some of this music is copyrighted- if you own the rights, please email me; if you do not, use at your own risk).
 
-> [!IMPORTANT]
-> :computer: Desktop/Mobile Browsers: If videos appear broken, refreshing the page once should fix the GitHub player.<br/>:iphone: GitHub iOS App: Currently, images are scaled incorrectly and videos do not display at all (GitHub pls fix).
+
+
+
+
+
+
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<a name="dont-get-around-much-anymore"></a><sub>[All The Things You Are](#all-the-things-you-are) \| [Autumn Leaves](#autumn-leaves) \| [Bushel and a Peck / Chattanooga Choo Choo](#bushel-and-a-peck-chattanooga-choo-choo) \| [Close To You](#close-to-you) \| ***Don't Get Around Much Anymore*** \| [Isn't She Lovely / Piano Man](#isnt-she-lovely-piano-man) \| [Just The Two Of Us](#just-the-two-of-us) \| [Moondance / Bumble Boogie](#moondance-bumble-boogie) \| [When I Was Your Man](#when-i-was-your-man) \| [Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff](#prelude-in-g-minor)</sub>
+<a name="dont-get-around-much-anymore"></a><sub>[All The Things You Are](#all-the-things-you-are) \| [Autumn Leaves](#autumn-leaves) \| [Bushel and a Peck / Chattanooga Choo Choo](#bushel-and-a-peck-chattanooga-choo-choo) \| [Close To You](#close-to-you) \| ***Don't Get Around Much Anymore*** \| [Isn't She Lovely / Piano Man](#isnt-she-lovely-piano-man) \| [Just The Two Of Us](#just-the-two-of-us) \| [Moondance / Bumble Boogie](#moondance-bumble-boogie) \| [When I Was Your Man](#when-i-was-your-man) \| [Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff](#rachmaninoff)</sub>
 :-:
 <video src='https://github.com/user-attachments/assets/2c82af8c-eb79-4a83-839e-e7e78adeeaff'></video>
 <sup>[:rewind: Previous Song](#close-to-you) [Back to Albums](#albums) [Next Song :fast_forward:](#isnt-she-lovely-piano-man)</sup><br/>[Don't Get Around Much Anymore (SoundCloud)](https://soundcloud.com/jasoncooperpiano/dont-get-around-much-anymore?in=jasoncooperpiano/sets/oncooperstreet&si=d3b78d98dbac4e968f4e46cafe784b9c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
@@ -272,17 +272,17 @@
 > [!TIP]
 > Click a song title link to open it in the README music player (and listen directly on GitHub).
 
-> [!NOTE]
-> This README music player is intended/built for desktop and mobile/in-app browsers and is compatible with both light and dark modes. Audio playback is still only supported in GitHub Organization/Profile READMEs through video files (videos begin muted by default!).
 
-> [!WARNING]
-> Original .wav recordings are available by request (some of this music is copyrighted- if you own the rights, please email me; if you do not, use at your own risk).
 
-> [!IMPORTANT]
-> :computer: Desktop/Mobile Browsers: If videos appear broken, refreshing the page once should fix the GitHub player.<br/>:iphone: GitHub iOS App: Currently, images are scaled incorrectly and videos do not display at all (GitHub pls fix).
+
+
+
+
+
+
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<a name="isnt-she-lovely-piano-man"></a><sub>[All The Things You Are](#all-the-things-you-are) \| [Autumn Leaves](#autumn-leaves) \| [Bushel and a Peck / Chattanooga Choo Choo](#bushel-and-a-peck-chattanooga-choo-choo) \| [Close To You](#close-to-you) \| [Don't Get Around Much Anymore](#dont-get-around-much-anymore) \| ***Isn't She Lovely / Piano Man*** \| [Just The Two Of Us](#just-the-two-of-us) \| [Moondance / Bumble Boogie](#moondance-bumble-boogie) \| [When I Was Your Man](#when-i-was-your-man) \| [Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff](#prelude-in-g-minor)</sub>
+<a name="isnt-she-lovely-piano-man"></a><sub>[All The Things You Are](#all-the-things-you-are) \| [Autumn Leaves](#autumn-leaves) \| [Bushel and a Peck / Chattanooga Choo Choo](#bushel-and-a-peck-chattanooga-choo-choo) \| [Close To You](#close-to-you) \| [Don't Get Around Much Anymore](#dont-get-around-much-anymore) \| ***Isn't She Lovely / Piano Man*** \| [Just The Two Of Us](#just-the-two-of-us) \| [Moondance / Bumble Boogie](#moondance-bumble-boogie) \| [When I Was Your Man](#when-i-was-your-man) \| [Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff](#rachmaninoff)</sub>
 :-:
 <video src='https://github.com/user-attachments/assets/b99567d5-997c-43cf-a695-819e03ce9d7b'></video>
 <sup>[:rewind: Previous Song](#dont-get-around-much-anymore) [Back to Albums](#albums) [Next Song :fast_forward:](#just-the-two-of-us)</sup><br/>[Isn't She Lovely / Piano Man (SoundCloud)](https://soundcloud.com/jasoncooperpiano/isnt-she-lovely-piano-man?in=jasoncooperpiano/sets/oncooperstreet&si=7d3783dc13ab4a6b9133c20c2dc3583b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
@@ -290,17 +290,17 @@
 > [!TIP]
 > Click a song title link to open it in the README music player (and listen directly on GitHub).
 
-> [!NOTE]
-> This README music player is intended/built for desktop and mobile/in-app browsers and is compatible with both light and dark modes. Audio playback is still only supported in GitHub Organization/Profile READMEs through video files (videos begin muted by default!).
 
-> [!WARNING]
-> Original .wav recordings are available by request (some of this music is copyrighted- if you own the rights, please email me; if you do not, use at your own risk).
 
-> [!IMPORTANT]
-> :computer: Desktop/Mobile Browsers: If videos appear broken, refreshing the page once should fix the GitHub player.<br/>:iphone: GitHub iOS App: Currently, images are scaled incorrectly and videos do not display at all (GitHub pls fix).
+
+
+
+
+
+
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<a name="just-the-two-of-us"></a><sub>[All The Things You Are](#all-the-things-you-are) \| [Autumn Leaves](#autumn-leaves) \| [Bushel and a Peck / Chattanooga Choo Choo](#bushel-and-a-peck-chattanooga-choo-choo) \| [Close To You](#close-to-you) \| [Don't Get Around Much Anymore](#dont-get-around-much-anymore) \| [Isn't She Lovely / Piano Man](#isnt-she-lovely-piano-man) \| ***Just The Two Of Us*** \| [Moondance / Bumble Boogie](#moondance-bumble-boogie) \| [When I Was Your Man](#when-i-was-your-man) \| [Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff](#prelude-in-g-minor)</sub>
+<a name="just-the-two-of-us"></a><sub>[All The Things You Are](#all-the-things-you-are) \| [Autumn Leaves](#autumn-leaves) \| [Bushel and a Peck / Chattanooga Choo Choo](#bushel-and-a-peck-chattanooga-choo-choo) \| [Close To You](#close-to-you) \| [Don't Get Around Much Anymore](#dont-get-around-much-anymore) \| [Isn't She Lovely / Piano Man](#isnt-she-lovely-piano-man) \| ***Just The Two Of Us*** \| [Moondance / Bumble Boogie](#moondance-bumble-boogie) \| [When I Was Your Man](#when-i-was-your-man) \| [Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff](#rachmaninoff)</sub>
 :-:
 <video src='https://github.com/user-attachments/assets/33db65bd-07ca-425e-aaa9-3b9c574139da'></video>
 <sup>[:rewind: Previous Song](#isnt-she-lovely-piano-man) [Back to Albums](#albums) [Next Song :fast_forward:](#moondance-bumble-boogie)</sup><br/>[Just The Two Of Us (SoundCloud)](https://soundcloud.com/jasoncooperpiano/just-the-two-of-us?in=jasoncooperpiano/sets/oncooperstreet&si=e951becde20445eb948ebe9611df0d89&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
@@ -308,17 +308,17 @@
 > [!TIP]
 > Click a song title link to open it in the README music player (and listen directly on GitHub).
 
-> [!NOTE]
-> This README music player is intended/built for desktop and mobile/in-app browsers and is compatible with both light and dark modes. Audio playback is still only supported in GitHub Organization/Profile READMEs through video files (videos begin muted by default!).
 
-> [!WARNING]
-> Original .wav recordings are available by request (some of this music is copyrighted- if you own the rights, please email me; if you do not, use at your own risk).
 
-> [!IMPORTANT]
-> :computer: Desktop/Mobile Browsers: If videos appear broken, refreshing the page once should fix the GitHub player.<br/>:iphone: GitHub iOS App: Currently, images are scaled incorrectly and videos do not display at all (GitHub pls fix).
+
+
+
+
+
+
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<a name="moondance-bumble-boogie"></a><sub>[All The Things You Are](#all-the-things-you-are) \| [Autumn Leaves](#autumn-leaves) \| [Bushel and a Peck / Chattanooga Choo Choo](#bushel-and-a-peck-chattanooga-choo-choo) \| [Close To You](#close-to-you) \| [Don't Get Around Much Anymore](#dont-get-around-much-anymore) \| [Isn't She Lovely / Piano Man](#isnt-she-lovely-piano-man) \| [Just The Two Of Us](#just-the-two-of-us) \| ***Moondance / Bumble Boogie*** \| [When I Was Your Man](#when-i-was-your-man) \| [Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff](#prelude-in-g-minor)</sub>
+<a name="moondance-bumble-boogie"></a><sub>[All The Things You Are](#all-the-things-you-are) \| [Autumn Leaves](#autumn-leaves) \| [Bushel and a Peck / Chattanooga Choo Choo](#bushel-and-a-peck-chattanooga-choo-choo) \| [Close To You](#close-to-you) \| [Don't Get Around Much Anymore](#dont-get-around-much-anymore) \| [Isn't She Lovely / Piano Man](#isnt-she-lovely-piano-man) \| [Just The Two Of Us](#just-the-two-of-us) \| ***Moondance / Bumble Boogie*** \| [When I Was Your Man](#when-i-was-your-man) \| [Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff](#rachmaninoff)</sub>
 :-:
 <video src='https://github.com/user-attachments/assets/d9299b6a-1107-4dd8-923e-194983d05da9'></video>
 <sup>[:rewind: Previous Song](#just-the-two-of-us) [Back to Albums](#albums) [Next Song :fast_forward:](#when-i-was-your-man)</sup><br/>[Moondance / Bumble Boogie (SoundCloud)](https://soundcloud.com/jasoncooperpiano/moondance-bumble-boogie?in=jasoncooperpiano/sets/oncooperstreet&si=829b2671e853455fa75ca88037be9464&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
@@ -326,35 +326,35 @@
 > [!TIP]
 > Click a song title link to open it in the README music player (and listen directly on GitHub).
 
-> [!NOTE]
-> This README music player is intended/built for desktop and mobile/in-app browsers and is compatible with both light and dark modes. Audio playback is still only supported in GitHub Organization/Profile READMEs through video files (videos begin muted by default!).
 
-> [!WARNING]
-> Original .wav recordings are available by request (some of this music is copyrighted- if you own the rights, please email me; if you do not, use at your own risk).
 
-> [!IMPORTANT]
-> :computer: Desktop/Mobile Browsers: If videos appear broken, refreshing the page once should fix the GitHub player.<br/>:iphone: GitHub iOS App: Currently, images are scaled incorrectly and videos do not display at all (GitHub pls fix).
+
+
+
+
+
+
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<a name="when-i-was-your-man"></a><sub>[All The Things You Are](#all-the-things-you-are) \| [Autumn Leaves](#autumn-leaves) \| [Bushel and a Peck / Chattanooga Choo Choo](#bushel-and-a-peck-chattanooga-choo-choo) \| [Close To You](#close-to-you) \| [Don't Get Around Much Anymore](#dont-get-around-much-anymore) \| [Isn't She Lovely / Piano Man](#isnt-she-lovely-piano-man) \| [Just The Two Of Us](#just-the-two-of-us) \| [Moondance / Bumble Boogie](#moondance-bumble-boogie) \| ***When I Was Your Man*** \| [Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff](#prelude-in-g-minor)</sub>
+<a name="when-i-was-your-man"></a><sub>[All The Things You Are](#all-the-things-you-are) \| [Autumn Leaves](#autumn-leaves) \| [Bushel and a Peck / Chattanooga Choo Choo](#bushel-and-a-peck-chattanooga-choo-choo) \| [Close To You](#close-to-you) \| [Don't Get Around Much Anymore](#dont-get-around-much-anymore) \| [Isn't She Lovely / Piano Man](#isnt-she-lovely-piano-man) \| [Just The Two Of Us](#just-the-two-of-us) \| [Moondance / Bumble Boogie](#moondance-bumble-boogie) \| ***When I Was Your Man*** \| [Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff](#rachmaninoff)</sub>
 :-:
 <video src='https://github.com/user-attachments/assets/2c42c60f-08cc-4a24-8323-bc42f9d5871d'></video>
-<sup>[:rewind: Previous Song](#moondance-bumble-boogie) [Back to Albums](#albums) [Next Song :fast_forward:](#prelude-in-g-minor)</sup><br/>[When I Was Your Man (SoundCloud)](https://soundcloud.com/jasoncooperpiano/when-i-was-your-man?in=jasoncooperpiano/sets/oncooperstreet&si=b7639b53d1c6496a98e417a9f9e6c84c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+<sup>[:rewind: Previous Song](#moondance-bumble-boogie) [Back to Albums](#albums) [Next Song :fast_forward:](#rachmaninoff)</sup><br/>[When I Was Your Man (SoundCloud)](https://soundcloud.com/jasoncooperpiano/when-i-was-your-man?in=jasoncooperpiano/sets/oncooperstreet&si=b7639b53d1c6496a98e417a9f9e6c84c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
 > [!TIP]
 > Click a song title link to open it in the README music player (and listen directly on GitHub).
 
-> [!NOTE]
-> This README music player is intended/built for desktop and mobile/in-app browsers and is compatible with both light and dark modes. Audio playback is still only supported in GitHub Organization/Profile READMEs through video files (videos begin muted by default!).
 
-> [!WARNING]
-> Original .wav recordings are available by request (some of this music is copyrighted- if you own the rights, please email me; if you do not, use at your own risk).
 
-> [!IMPORTANT]
-> :computer: Desktop/Mobile Browsers: If videos appear broken, refreshing the page once should fix the GitHub player.<br/>:iphone: GitHub iOS App: Currently, images are scaled incorrectly and videos do not display at all (GitHub pls fix).
+
+
+
+
+
+
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<a name="prelude-in-g-minor"></a><sub>[All The Things You Are](#all-the-things-you-are) \| [Autumn Leaves](#autumn-leaves) \| [Bushel and a Peck / Chattanooga Choo Choo](#bushel-and-a-peck-chattanooga-choo-choo) \| [Close To You](#close-to-you) \| [Don't Get Around Much Anymore](#dont-get-around-much-anymore) \| [Isn't She Lovely / Piano Man](#isnt-she-lovely-piano-man) \| [Just The Two Of Us](#just-the-two-of-us) \| [Moondance / Bumble Boogie](#moondance-bumble-boogie) \| [When I Was Your Man](#when-i-was-your-man) \| ***Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff***</sub>
+<a name="rachmaninoff"></a><sub>[All The Things You Are](#all-the-things-you-are) \| [Autumn Leaves](#autumn-leaves) \| [Bushel and a Peck / Chattanooga Choo Choo](#bushel-and-a-peck-chattanooga-choo-choo) \| [Close To You](#close-to-you) \| [Don't Get Around Much Anymore](#dont-get-around-much-anymore) \| [Isn't She Lovely / Piano Man](#isnt-she-lovely-piano-man) \| [Just The Two Of Us](#just-the-two-of-us) \| [Moondance / Bumble Boogie](#moondance-bumble-boogie) \| [When I Was Your Man](#when-i-was-your-man) \| ***Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff***</sub>
 :-:
 <video src='https://github.com/user-attachments/assets/87c9ff1c-03b0-4008-8ab1-a7dc557c6bbf'></video>
 <sup>[:rewind: Previous Song](#when-i-was-your-man) [Back to Albums](#albums) [Next Song :fast_forward:](#all-the-things-you-are)</sup><br/>[Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff (YouTube)](https://youtu.be/RA-6Uu009TE?feature=shared)
@@ -362,13 +362,13 @@
 > [!TIP]
 > Click a song title link to open it in the README music player (and listen directly on GitHub).
 
-> [!NOTE]
-> This README music player is intended/built for desktop and mobile/in-app browsers and is compatible with both light and dark modes. Audio playback is still only supported in GitHub Organization/Profile READMEs through video files (videos begin muted by default!).
 
-> [!WARNING]
-> Original .wav recordings are available by request (some of this music is copyrighted- if you own the rights, please email me; if you do not, use at your own risk).
 
-> [!IMPORTANT]
-> :computer: Desktop/Mobile Browsers: If videos appear broken, refreshing the page once should fix the GitHub player.<br/>:iphone: GitHub iOS App: Currently, images are scaled incorrectly and videos do not display at all (GitHub pls fix).
+
+
+
+
+
+
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
