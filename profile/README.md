@@ -5,7 +5,7 @@ Click any song to open/listen!
 :-:|:-:
 
 > [!TIP]
-> Swipe right/left between albums (for mobile browsers) or use [the desktop version](https://github.com/jasoncooperpiano/.github/blob/desktop-(original)/profile/README.md#minidisc-albums).<br/><br/>The navigation links/buttons work like a Wikipedia table — Try [their FAQ (Wikipedia)](https://en.wikipedia.org/wiki/Wikipedia:FAQ) for an example.
+> Swipe right/left between albums (mobile browsers only).<br/><br/>The navigation links/buttons work like a Wikipedia table — Try [their FAQ (Wikipedia)](https://en.wikipedia.org/wiki/Wikipedia:FAQ) for an example.
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <a name="a-holly-jolly-christmas"></a><sub>***A Holly Jolly Christmas*** • [All I Want For Christmas Is You](#all-i-want-for-christmas-is-you) • [Christmas Time Is Here](#christmas-time-is-here) • [I'll Be Home For Christmas](#ill-be-home-for-christmas) • [I've Got My Love To Keep Me Warm](#ive-got-my-love-to-keep-me-warm) • [Jingle Bells](#jingle-bells) • [O Christmas Tree](#o-christmas-tree) • [Rockin' Around The Christmas Tree](#rockin-around-the-christmas-tree) • [Rudolph The Red Nosed Reindeer](#rudolph-the-red-nosed-reindeer) • [The Christmas Song](#the-christmas-song)</sub>
