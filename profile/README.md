@@ -8,9 +8,9 @@ Click any song to open/listen!
 > Swipe right/left between albums (mobile browsers only).<br/><br/>The navigation links/buttons work like a Wikipedia table — Try [their FAQ (Wikipedia)](https://en.wikipedia.org/wiki/Wikipedia:FAQ) for an example.
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<a name="a-holly-jolly-christmas"></a><ins>Songs</ins><br/><sub>***A Holly Jolly Christmas*** • [All I Want For Christmas Is You](#all-i-want-for-christmas-is-you) • [Christmas Time Is Here](#christmas-time-is-here) • [I'll Be Home For Christmas](#ill-be-home-for-christmas) • [I've Got My Love To Keep Me Warm](#ive-got-my-love-to-keep-me-warm) • [Jingle Bells](#jingle-bells) • [O Christmas Tree](#o-christmas-tree) • [Rockin' Around The Christmas Tree](#rockin-around-the-christmas-tree) • [Rudolph The Red Nosed Reindeer](#rudolph-the-red-nosed-reindeer) • [The Christmas Song](#the-christmas-song)</sub>
+**<ins>Music Player</ins><br/>**<video src='https://github.com/user-attachments/assets/c2ef5102-6511-49ec-aaaa-11134c63692a'></video><br/><sub>[:rewind: Last Song](#the-christmas-song) • [Back to Albums](#albums) • [Next Song :fast_forward:](#all-i-want-for-christmas-is-you)</sub>
 :-:
-**<ins>Music Player</ins><br/><sub>[:rewind: Last Song](#the-christmas-song) • [Back to Albums](#albums) • [Next Song :fast_forward:](#all-i-want-for-christmas-is-you)</sub><br/>**<video src='https://github.com/user-attachments/assets/c2ef5102-6511-49ec-aaaa-11134c63692a'></video>
+<a name="a-holly-jolly-christmas"></a><ins>Songs</ins><br/><sub>***A Holly Jolly Christmas*** • [All I Want For Christmas Is You](#all-i-want-for-christmas-is-you) • [Christmas Time Is Here](#christmas-time-is-here) • [I'll Be Home For Christmas](#ill-be-home-for-christmas) • [I've Got My Love To Keep Me Warm](#ive-got-my-love-to-keep-me-warm) • [Jingle Bells](#jingle-bells) • [O Christmas Tree](#o-christmas-tree) • [Rockin' Around The Christmas Tree](#rockin-around-the-christmas-tree) • [Rudolph The Red Nosed Reindeer](#rudolph-the-red-nosed-reindeer) • [The Christmas Song](#the-christmas-song)</sub>
 [A Holly Jolly Christmas (SoundCloud)](https://soundcloud.com/jasoncooperpiano/a-holly-jolly-christmas?in=jasoncooperpiano/sets/ajasoncooperchristmas&si=0ec70b1fc5c34dbb8e876b60ff0118a6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
 > [!TIP]
@@ -20,7 +20,7 @@ Click any song to open/listen!
 <a name="all-i-want-for-christmas-is-you"></a><ins>Songs</ins><br/><sub>[A Holly Jolly Christmas](#a-holly-jolly-christmas) • ***All I Want For Christmas Is You*** • [Christmas Time Is Here](#christmas-time-is-here) • [I'll Be Home For Christmas](#ill-be-home-for-christmas) • [I've Got My Love To Keep Me Warm](#ive-got-my-love-to-keep-me-warm) • [Jingle Bells](#jingle-bells) • [O Christmas Tree](#o-christmas-tree) • [Rockin' Around The Christmas Tree](#rockin-around-the-christmas-tree) • [Rudolph The Red Nosed Reindeer](#rudolph-the-red-nosed-reindeer) • [The Christmas Song](#the-christmas-song)</sub>
 :-:
 **<ins>Music Player</ins><br/><sub>[:rewind: Last Song](#a-holly-jolly-christmas) • [Back to Albums](#albums) • [Next Song :fast_forward:](#christmas-time-is-here)</sub><br/>**<video src='https://github.com/user-attachments/assets/56ff5712-cb74-453f-ad19-134d5ca39e8f'></video>
-[All&nbsp;I&nbsp;Want&nbsp;For&nbsp;Christmas&nbsp;Is&nbsp;You&nbsp;(SoundCloud)](https://soundcloud.com/jasoncooperpiano/all-i-want-for-christmas-is-you?in=jasoncooperpiano/sets/ajasoncooperchristmas&si=5a3f4a6889854e8db869e38a70898ddb&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+[All I Want For Christmas Is You (SoundCloud)](https://soundcloud.com/jasoncooperpiano/all-i-want-for-christmas-is-you?in=jasoncooperpiano/sets/ajasoncooperchristmas&si=5a3f4a6889854e8db869e38a70898ddb&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
 > [!TIP]
 > Videos start muted by default — Try refreshing the page if clicking play doesn't work.<br/><br/>The navigation links/buttons work like a Wikipedia table — Try [their FAQ (Wikipedia)](https://en.wikipedia.org/wiki/Wikipedia:FAQ) for an example.
@@ -182,7 +182,7 @@ Click any song to open/listen!
 <a name="rachmaninoff"></a><ins>Songs</ins><br/><sub>[All The Things You Are](#all-the-things-you-are) • [Autumn Leaves](#autumn-leaves) • [Bushel and a Peck / Chattanooga Choo Choo](#bushel-and-a-peck-chattanooga-choo-choo) • [Close To You](#close-to-you) • [Don't Get Around Much Anymore](#dont-get-around-much-anymore) • [Isn't She Lovely / Piano Man](#isnt-she-lovely-piano-man) • [Just The Two Of Us](#just-the-two-of-us) • [Moondance / Bumble Boogie](#moondance-bumble-boogie) • [When I Was Your Man](#when-i-was-your-man) • ***Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff***</sub>
 :-:
 **<ins>Music Player</ins><br/><sub>[:rewind: Last Song](#when-i-was-your-man) • [Back to Albums](#albums) • [Next Song :fast_forward:](#all-the-things-you-are)</sub><br/>**<video src='https://github.com/user-attachments/assets/87c9ff1c-03b0-4008-8ab1-a7dc557c6bbf'></video>
-[Prelude&nbsp;in&nbsp;G&nbsp;minor,&nbsp;Op.&nbsp;23,&nbsp;No.&nbsp;5&nbsp;-&nbsp;Sergei&nbsp;Rachmaninoff&nbsp;(YouTube)](https://youtu.be/RA-6Uu009TE?feature=shared)
+[Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff (YouTube)](https://youtu.be/RA-6Uu009TE?feature=shared)
 
 > [!TIP]
 > Videos start muted by default — Try refreshing the page if clicking play doesn't work.<br/><br/>The navigation links/buttons work like a Wikipedia table — Try [their FAQ (Wikipedia)](https://en.wikipedia.org/wiki/Wikipedia:FAQ) for an example.
