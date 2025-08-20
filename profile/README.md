@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/369716ab-bd90-4736-8db1-1b83d13c90c1
 <a href="https://www.jasoncooperpiano.com"><img src="https://github.com/user-attachments/assets/de1dc0ea-97a3-40aa-a027-ad44b7af9302" alt="Jason Cooper Piano Cover (www.jasoncooperpiano.com)"></a>
 ### Albums
 Click any song to open/listen!
@@ -110,7 +108,7 @@ Click any song to open/listen!
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <a name="all-the-things-you-are"></a><ins>Songs</ins><br/><sub>***All The Things You Are*** • [Autumn Leaves](#autumn-leaves) • [Bushel and a Peck / Chattanooga Choo Choo](#bushel-and-a-peck-chattanooga-choo-choo) • [Close To You](#close-to-you) • [Don't Get Around Much Anymore](#dont-get-around-much-anymore) • [Isn't She Lovely / Piano Man](#isnt-she-lovely-piano-man) • [Just The Two Of Us](#just-the-two-of-us) • [Moondance / Bumble Boogie](#moondance-bumble-boogie) • [When I Was Your Man](#when-i-was-your-man) • [Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff](#rachmaninoff)</sub>
 :-:
-**<ins>Music Player</ins><br/><sub>[:rewind: Last Song](#rachmaninoff) • [Back to Albums](#albums) • [Next Song :fast_forward:](#autumn-leaves)</sub><br/><video src='https://github.com/user-attachments/assets/dc2b410f-957a-436b-98d0-12bc27f91a72'></video>[All The Things You Are (SoundCloud)](https://soundcloud.com/jasoncooperpiano/all-the-things-you-are?in=jasoncooperpiano/sets/oncooperstreet&si=36c19395abbf498c8ea4e92fee684842&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)**
+**<ins>Music Player</ins><br/><sub>[:rewind: Last Song](#rachmaninoff) • [Back to Albums](#albums) • [Next Song :fast_forward:](#autumn-leaves)</sub><br/><video src='https://github.com/user-attachments/assets/bcc4e00f-d04d-469d-ba9d-fffe441ac652'></video>[All The Things You Are (SoundCloud)](https://soundcloud.com/jasoncooperpiano/all-the-things-you-are?in=jasoncooperpiano/sets/oncooperstreet&si=36c19395abbf498c8ea4e92fee684842&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)**
 
 > [!TIP]
 > Videos start muted by default — Try [refreshing the page](https://www.github.com/jasoncooperpiano#Albums) if clicking play doesn't work.
@@ -121,7 +119,7 @@ Click any song to open/listen!
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <a name="autumn-leaves"></a><ins>Songs</ins><br/><sub>[All The Things You Are](#all-the-things-you-are) • ***Autumn Leaves*** • [Bushel and a Peck / Chattanooga Choo Choo](#bushel-and-a-peck-chattanooga-choo-choo) • [Close To You](#close-to-you) • [Don't Get Around Much Anymore](#dont-get-around-much-anymore) • [Isn't She Lovely / Piano Man](#isnt-she-lovely-piano-man) • [Just The Two Of Us](#just-the-two-of-us) • [Moondance / Bumble Boogie](#moondance-bumble-boogie) • [When I Was Your Man](#when-i-was-your-man) • [Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff](#rachmaninoff)</sub>
 :-:
-**<ins>Music Player</ins><br/><sub>[:rewind: Last Song](#all-the-things-you-are) • [Back to Albums](#albums) • [Next Song :fast_forward:](#bushel-and-a-peck-chattanooga-choo-choo)</sub><br/><video src='https://github.com/user-attachments/assets/6011599a-4487-49fa-a09b-60ec2ba0ca1a'></video>[Autumn Leaves (SoundCloud)](https://soundcloud.com/jasoncooperpiano/autumn-leaves?in=jasoncooperpiano/sets/oncooperstreet&si=ff9b557154ba45eaa97e1d454468882e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)**
+**<ins>Music Player</ins><br/><sub>[:rewind: Last Song](#all-the-things-you-are) • [Back to Albums](#albums) • [Next Song :fast_forward:](#bushel-and-a-peck-chattanooga-choo-choo)</sub><br/><video src='https://github.com/user-attachments/assets/ed6e9c54-2fa2-40be-a431-29f29ff51e58'></video>[Autumn Leaves (SoundCloud)](https://soundcloud.com/jasoncooperpiano/autumn-leaves?in=jasoncooperpiano/sets/oncooperstreet&si=ff9b557154ba45eaa97e1d454468882e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)**
 
 > [!TIP]
 > Videos start muted by default — Try [refreshing the page](https://www.github.com/jasoncooperpiano#Albums) if clicking play doesn't work.
