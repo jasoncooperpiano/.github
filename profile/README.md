@@ -6,7 +6,7 @@ Click any song to open/listen!
 :-:|:-:|:-:
 
 > [!TIP]
-> Swipe right/left between albums (mobile browsers only; albums should display side-by-side on desktop).<br/><br/>Scrolling between songs instead of using the navigation links/buttons is possible, but not recommended - actually, it is actively discouraged with huge blank spaces!
+> Swipe right/left between albums (mobile browsers only — albums should display side-by-side on desktop). between songs instead of using the navigation links/buttons is possible, but not recommended.
 
 > [!NOTE]
 > The navigation links/buttons work like a Wikipedia table — Try [their FAQ (Wikipedia)](https://en.wikipedia.org/wiki/Wikipedia:FAQ) for an example.
