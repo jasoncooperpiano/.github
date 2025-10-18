@@ -1,7 +1,7 @@
 <a href="https://www.jasoncooperpiano.com"><img src="https://github.com/user-attachments/assets/de1dc0ea-97a3-40aa-a027-ad44b7af9302" alt="Jason Cooper Piano Cover (www.jasoncooperpiano.com)"></a>
 
 ### Albums
-Click any song to open/listen!
+Some music I made in high school and my first year of college. Click any song to open/listen!
 
 Swipe right/left between albums in mobile browsers — Albums display side-by-side on desktop.
 
