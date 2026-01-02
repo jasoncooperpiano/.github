@@ -5,10 +5,13 @@ Some music I made in high school and my first year of college.
 
 Swipe right/left between albums in mobile browsers. Click any song to open/listen!
 
+> [!NOTE]
+> The GitHub iOS app currently does not support/display videos in README files (external SoundCloud and YouTube links are provided in parentheses).
+
 [On Cooper Street (SoundCloud)](https://soundcloud.com/jasoncooperpiano/sets/oncooperstreet?si=fcbfbf98b6b3425ab954d63016038917&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)<br/><sub><a href="https://soundcloud.com/jasoncooperpiano/sets/oncooperstreet?si=fcbfbf98b6b3425ab954d63016038917&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://github.com/user-attachments/assets/687f88f0-46ca-47cd-8238-8a55642fe7be" alt="On Cooper Street (SoundCloud)" style="width:240px;height:240px;"></a></sub><br/><sup>_______________________________________________</sup><br/><ins>Songs</ins><br/><sub>[All The Things You Are](#all-the-things-you-are) • [Autumn Leaves](#autumn-leaves) • [Bushel and a Peck / Chattanooga Choo Choo](#bushel-and-a-peck-chattanooga-choo-choo) • [Close To You](#close-to-you) • [Don't Get Around Much Anymore](#dont-get-around-much-anymore) • [Isn't She Lovely / Piano Man](#isnt-she-lovely-piano-man) • [Just The Two Of Us](#just-the-two-of-us) • [Moondance / Bumble Boogie](#moondance-bumble-boogie) • [When I Was Your Man](#when-i-was-your-man) • [Prelude in G minor, Op. 23, No. 5 - Sergei Rachmaninoff](#rachmaninoff)</sub><br/>|[A Jason Cooper Christmas (SoundCloud)](https://soundcloud.com/jasoncooperpiano/sets/ajasoncooperchristmas?si=ef5b0c1a4bb44e05855c37c80a20ac9a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)<br/><sub><a href="https://soundcloud.com/jasoncooperpiano/sets/ajasoncooperchristmas?si=ef5b0c1a4bb44e05855c37c80a20ac9a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://github.com/user-attachments/assets/2e508715-ea33-43ec-9d67-68cd13c35f2a" alt="A Jason Cooper Christmas (SoundCloud)" style="width:240px;height:240px;"></a></sub><br/><sup>_______________________________________________</sup><br/><ins>Songs</ins><br/><sub>[A Holly Jolly Christmas](#a-holly-jolly-christmas) • [All I Want For Christmas Is You](#all-i-want-for-christmas-is-you) • [Christmas Time Is Here](#christmas-time-is-here) • [I'll Be Home For Christmas](#ill-be-home-for-christmas) • [I've Got My Love To Keep Me Warm](#ive-got-my-love-to-keep-me-warm) • [Jingle Bells](#jingle-bells) • [O Christmas Tree](#o-christmas-tree) • [Rockin' Around The Christmas Tree](#rockin-around-the-christmas-tree) • [Rudolph The Red Nosed Reindeer](#rudolph-the-red-nosed-reindeer) • [The Christmas Song](#the-christmas-song)</sub>|[Great Balls of Fire - Jerry Lee Lewis (YouTube)](https://youtu.be/OHjAIYQD6Gs?feature=shared)<br/><br/>**<video src='https://github.com/user-attachments/assets/f8ac9a46-9d0c-4492-81e1-94401eee4637'></video>**<br/><sup>Videos start muted by default — Try [refreshing the page](https://www.github.com/jasoncooperpiano#Albums) if clicking play doesn't work.</sup>
 :-:|:-:|:-:
 
-> [!NOTE]
+> [!TIP]
 > The navigation links/buttons work like a Wikipedia table — Try [their FAQ (Wikipedia)](https://en.wikipedia.org/wiki/Wikipedia:FAQ) for an example.
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
@@ -19,7 +22,7 @@ Swipe right/left between albums in mobile browsers. Click any song to open/liste
 
 
 
-> [!NOTE]
+> [!TIP]
 > The navigation links/buttons work like a Wikipedia table — Try [their FAQ (Wikipedia)](https://en.wikipedia.org/wiki/Wikipedia:FAQ) for an example.
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
@@ -30,7 +33,7 @@ Swipe right/left between albums in mobile browsers. Click any song to open/liste
 
 
 
-> [!NOTE]
+> [!TIP]
 > The navigation links/buttons work like a Wikipedia table — Try [their FAQ (Wikipedia)](https://en.wikipedia.org/wiki/Wikipedia:FAQ) for an example.
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
@@ -41,7 +44,7 @@ Swipe right/left between albums in mobile browsers. Click any song to open/liste
 
 
 
-> [!NOTE]
+> [!TIP]
 > The navigation links/buttons work like a Wikipedia table — Try [their FAQ (Wikipedia)](https://en.wikipedia.org/wiki/Wikipedia:FAQ) for an example.
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
@@ -52,7 +55,7 @@ Swipe right/left between albums in mobile browsers. Click any song to open/liste
 
 
 
-> [!NOTE]
+> [!TIP]
 > The navigation links/buttons work like a Wikipedia table — Try [their FAQ (Wikipedia)](https://en.wikipedia.org/wiki/Wikipedia:FAQ) for an example.
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
@@ -63,7 +66,7 @@ Swipe right/left between albums in mobile browsers. Click any song to open/liste
 
 
 
-> [!NOTE]
+> [!TIP]
 > The navigation links/buttons work like a Wikipedia table — Try [their FAQ (Wikipedia)](https://en.wikipedia.org/wiki/Wikipedia:FAQ) for an example.
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
@@ -74,7 +77,7 @@ Swipe right/left between albums in mobile browsers. Click any song to open/liste
 
 
 
-> [!NOTE]
+> [!TIP]
 > The navigation links/buttons work like a Wikipedia table — Try [their FAQ (Wikipedia)](https://en.wikipedia.org/wiki/Wikipedia:FAQ) for an example.
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
@@ -85,7 +88,7 @@ Swipe right/left between albums in mobile browsers. Click any song to open/liste
 
 
 
-> [!NOTE]
+> [!TIP]
 > The navigation links/buttons work like a Wikipedia table — Try [their FAQ (Wikipedia)](https://en.wikipedia.org/wiki/Wikipedia:FAQ) for an example.
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
@@ -96,7 +99,7 @@ Swipe right/left between albums in mobile browsers. Click any song to open/liste
 
 
 
-> [!NOTE]
+> [!TIP]
 > The navigation links/buttons work like a Wikipedia table — Try [their FAQ (Wikipedia)](https://en.wikipedia.org/wiki/Wikipedia:FAQ) for an example.
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
@@ -107,7 +110,7 @@ Swipe right/left between albums in mobile browsers. Click any song to open/liste
 
 
 
-> [!NOTE]
+> [!TIP]
 > The navigation links/buttons work like a Wikipedia table — Try [their FAQ (Wikipedia)](https://en.wikipedia.org/wiki/Wikipedia:FAQ) for an example.
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
@@ -118,7 +121,7 @@ Swipe right/left between albums in mobile browsers. Click any song to open/liste
 
 
 
-> [!NOTE]
+> [!TIP]
 > The navigation links/buttons work like a Wikipedia table — Try [their FAQ (Wikipedia)](https://en.wikipedia.org/wiki/Wikipedia:FAQ) for an example.
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
@@ -129,7 +132,7 @@ Swipe right/left between albums in mobile browsers. Click any song to open/liste
 
 
 
-> [!NOTE]
+> [!TIP]
 > The navigation links/buttons work like a Wikipedia table — Try [their FAQ (Wikipedia)](https://en.wikipedia.org/wiki/Wikipedia:FAQ) for an example.
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
@@ -140,7 +143,7 @@ Swipe right/left between albums in mobile browsers. Click any song to open/liste
 
 
 
-> [!NOTE]
+> [!TIP]
 > The navigation links/buttons work like a Wikipedia table — Try [their FAQ (Wikipedia)](https://en.wikipedia.org/wiki/Wikipedia:FAQ) for an example.
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
@@ -151,7 +154,7 @@ Swipe right/left between albums in mobile browsers. Click any song to open/liste
 
 
 
-> [!NOTE]
+> [!TIP]
 > The navigation links/buttons work like a Wikipedia table — Try [their FAQ (Wikipedia)](https://en.wikipedia.org/wiki/Wikipedia:FAQ) for an example.
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
@@ -162,7 +165,7 @@ Swipe right/left between albums in mobile browsers. Click any song to open/liste
 
 
 
-> [!NOTE]
+> [!TIP]
 > The navigation links/buttons work like a Wikipedia table — Try [their FAQ (Wikipedia)](https://en.wikipedia.org/wiki/Wikipedia:FAQ) for an example.
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
@@ -173,7 +176,7 @@ Swipe right/left between albums in mobile browsers. Click any song to open/liste
 
 
 
-> [!NOTE]
+> [!TIP]
 > The navigation links/buttons work like a Wikipedia table — Try [their FAQ (Wikipedia)](https://en.wikipedia.org/wiki/Wikipedia:FAQ) for an example.
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
@@ -184,7 +187,7 @@ Swipe right/left between albums in mobile browsers. Click any song to open/liste
 
 
 
-> [!NOTE]
+> [!TIP]
 > The navigation links/buttons work like a Wikipedia table — Try [their FAQ (Wikipedia)](https://en.wikipedia.org/wiki/Wikipedia:FAQ) for an example.
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
@@ -195,7 +198,7 @@ Swipe right/left between albums in mobile browsers. Click any song to open/liste
 
 
 
-> [!NOTE]
+> [!TIP]
 > The navigation links/buttons work like a Wikipedia table — Try [their FAQ (Wikipedia)](https://en.wikipedia.org/wiki/Wikipedia:FAQ) for an example.
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
@@ -206,7 +209,7 @@ Swipe right/left between albums in mobile browsers. Click any song to open/liste
 
 
 
-> [!NOTE]
+> [!TIP]
 > The navigation links/buttons work like a Wikipedia table — Try [their FAQ (Wikipedia)](https://en.wikipedia.org/wiki/Wikipedia:FAQ) for an example.
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
@@ -217,7 +220,7 @@ Swipe right/left between albums in mobile browsers. Click any song to open/liste
 
 
 
-> [!NOTE]
+> [!TIP]
 > The navigation links/buttons work like a Wikipedia table — Try [their FAQ (Wikipedia)](https://en.wikipedia.org/wiki/Wikipedia:FAQ) for an example.
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
@@ -228,7 +231,7 @@ Swipe right/left between albums in mobile browsers. Click any song to open/liste
 
 
 
-> [!NOTE]
+> [!TIP]
 > The navigation links/buttons work like a Wikipedia table — Try [their FAQ (Wikipedia)](https://en.wikipedia.org/wiki/Wikipedia:FAQ) for an example.
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
